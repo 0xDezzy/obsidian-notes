@@ -4,25 +4,10 @@
     "/"
   ],
   "filesCheckpoint": {
-    "99. Templates/Journal/Weekly Note Template.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "99. Templates/Journal/Monthly Note Template.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "99. Templates/Journal/Daily Note Template.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
     "0. Home/changelog.md": {
       "size": 187,
       "tags": 0,
-      "links": 8
+      "links": 7
     },
     "0. Home/0. Home.md": {
       "size": 112,
@@ -39,12 +24,17 @@
       "tags": 0,
       "links": 0
     },
-    "1.1 Tasks/1.1 Tasks.md": {
-      "size": 11,
+    "Templates/Journal/Daily Note Template.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     },
-    "99. Templates/Tasks/New Task Template.md": {
+    "Templates/Journal/Monthly Note Template.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Journal/Weekly Note Template.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -52,9 +42,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 11,
+      "Refactor": 21,
       "Create": 13,
-      "Link": 5,
+      "Link": 6,
       "Expand": 0
     }
   },
@@ -82,7 +72,7 @@
       "19": 0,
       "20": 0,
       "21": 11,
-      "22": 18,
+      "22": 29,
       "23": 0
     }
   },
@@ -94,7 +84,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 29
+      "Sun": 40
     }
   },
   "recentCommits": {
@@ -116,9 +106,18 @@
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
+        "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Journal/Daily Note Template.md\"> Daily Note Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Journal/Monthly Note Template.md\"> Monthly Note Template </a>",
+        "<a class=\"internal-link\" href=\"Templates/Journal/Weekly Note Template.md\"> Weekly Note Template </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>",
+        "<a class=\"internal-link\" href=\"1.1 Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>",
+        "<a class=\"internal-link\" href=\"2. Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>"
+      ],
+      "Tagged": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>"
       ],
-      "Tagged": [],
       "Refactored": [],
       "Deleted": [
         "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>",
@@ -129,7 +128,9 @@
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 24th 2021.md\"> Oct 24th 2021 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 25th 2021.md\"> Oct 25th 2021 </a>",
-        "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>"
+        "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
+        "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
@@ -140,6 +141,7 @@
       ],
       "Removed Tags from": [],
       "Removed Links from": [
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
       ]
     }

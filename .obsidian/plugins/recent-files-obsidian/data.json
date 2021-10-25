@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "1.1 Tasks",
-      "path": "1.1 Tasks/1.1 Tasks.md"
+      "basename": "Dashboard",
+      "path": "0. Home/Dashboard.md"
     },
     {
-      "basename": "New Task Template",
-      "path": "99. Templates/Tasks/New Task Template.md"
-    },
-    {
-      "basename": "Weekly Note Template",
-      "path": "99. Templates/Journal/Weekly Note Template.md"
-    },
-    {
-      "basename": "Monthly Note Template",
-      "path": "99. Templates/Journal/Monthly Note Template.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "99. Templates/Journal/Daily Note Template.md"
+      "basename": "New Task",
+      "path": "Templates/Dashboard/New Task.md"
     },
     {
       "basename": "0. Home",
       "path": "0. Home/0. Home.md"
+    },
+    {
+      "basename": "Weekly Note Template",
+      "path": "Templates/Journal/Weekly Note Template.md"
+    },
+    {
+      "basename": "Monthly Note Template",
+      "path": "Templates/Journal/Monthly Note Template.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "Templates/Journal/Daily Note Template.md"
     },
     {
       "basename": "2. Programming",
