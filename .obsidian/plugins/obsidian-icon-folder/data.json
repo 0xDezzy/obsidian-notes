@@ -9,5 +9,6 @@
   "0. Home": "RiRiHomeLine",
   "1. Notes": "RiRiPencilLine",
   "2. Programming": "RiRiCodeBoxLine",
-  "99. Templates": "RiRiFilePaperLine"
+  "99. Templates": "RiRiFilePaperLine",
+  "1.1 Tasks": "RiRiTaskLine"
 }

@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "99. Templates/Journal/Daily Note Template.md",
-            "mode": "preview"
+            "file": "1.1 Tasks/Test.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,26 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Daily Note Template.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.1 Tasks/Test.md\",\"mode\":\"source\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.1 Tasks/Test.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Daily Note Template.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
             },
             {
               "leaf": "cd77631d04e9fa37",
@@ -230,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. Templates/Journal/Daily Note Template.md"
+                "file": "1.1 Tasks/Test.md"
               }
             },
             "pane-relief:history-v1": {
@@ -266,7 +284,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. Templates/Journal/Daily Note Template.md",
+                "file": "1.1 Tasks/Test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +305,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99. Templates/Journal/Daily Note Template.md",
+                "file": "1.1 Tasks/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -324,15 +342,15 @@
   },
   "active": "cd77631d04e9fa37",
   "lastOpenFiles": [
+    "1.1 Tasks/Test.md",
+    "0. Home/0. Home.md",
     "99. Templates/Journal/Daily Note Template.md",
     "99. Templates/Journal/Weekly Note Template.md",
     "99. Templates/Journal/Monthly Note Template.md",
-    "0. Home/0. Home.md",
     "2. Programming/2. Programming.md",
     "1. Notes/1. Notes.md",
     "1. Notes/Daily/Oct 24th 2021.md",
     "1. Notes/test.md",
-    "0. Home/changelog.md",
-    "Home.md"
+    "0. Home/changelog.md"
   ]
 }

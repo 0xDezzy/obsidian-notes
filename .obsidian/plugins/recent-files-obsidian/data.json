@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Test",
+      "path": "1.1 Tasks/Test.md"
+    },
+    {
+      "basename": "0. Home",
+      "path": "0. Home/0. Home.md"
+    },
+    {
       "basename": "Daily Note Template",
       "path": "99. Templates/Journal/Daily Note Template.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Monthly Note Template",
       "path": "99. Templates/Journal/Monthly Note Template.md"
-    },
-    {
-      "basename": "0. Home",
-      "path": "0. Home/0. Home.md"
     },
     {
       "basename": "2. Programming",

@@ -3,7 +3,6 @@
   "obsidian-admonition",
   "better-word-count",
   "obsidian-banners",
-  "buttons",
   "calendar",
   "cmenu-plugin",
   "customizable-menu",
@@ -50,9 +49,9 @@
   "obsidian-hotkeys-for-templates",
   "liquid-templates",
   "plugin-changelogs",
-  "obsidian-tasks-plugin",
   "templater-obsidian",
   "periodic-notes",
   "obsidian-view-mode-by-frontmatter",
-  "obsidian-query-language"
+  "obsidian-query-language",
+  "obsidian-tasks-plugin"
 ]
