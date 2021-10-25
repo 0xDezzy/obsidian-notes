@@ -53,5 +53,6 @@
   "obsidian-tasks-plugin",
   "templater-obsidian",
   "periodic-notes",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "obsidian-query-language"
 ]
