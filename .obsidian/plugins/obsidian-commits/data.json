@@ -22,7 +22,7 @@
     "Home/changelog.md": {
       "size": 187,
       "tags": 0,
-      "links": 9
+      "links": 10
     },
     "Dashboard/Dashboard-embed.md": {
       "size": 1140,
@@ -72,12 +72,12 @@
     "Test Project/Test Project.md": {
       "size": 14,
       "tags": 0,
-      "links": 0
+      "links": 1
     },
     "Test Project/Untitled Kanban.md": {
       "size": 0,
       "tags": 0,
-      "links": 2
+      "links": 1
     },
     "Test Project/project-dashboard-embed.md": {
       "size": 0,
@@ -88,19 +88,24 @@
       "size": 0,
       "tags": 0,
       "links": 0
+    },
+    "Test Project/Kanban Notes/Test Task 1.md": {
+      "size": 0,
+      "tags": 1,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 88,
-      "Create": 63,
-      "Link": 29,
+      "Refactor": 89,
+      "Create": 64,
+      "Link": 32,
       "Expand": 0
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 14,
+      "0": 19,
       "1": 0,
       "2": 0,
       "3": 0,
@@ -128,7 +133,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 14,
+      "Mon": 19,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -141,6 +146,7 @@
     "/": {
       "Expanded": [],
       "Created": [
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test Task 1.md\"> Test Task 1 </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test 2.md\"> Test 2 </a>",
         "<a class=\"internal-link\" href=\"undefined.md\"> undefined </a>",
         "<a class=\"internal-link\" href=\"undefined.md\"> undefined </a>",
@@ -190,8 +196,7 @@
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard-embed.md\"> Dashboard-embed </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Projects-embed.md\"> Projects-embed </a>",
-        "<a class=\"internal-link\" href=\"Home/Home.md\"> Home </a>",
-        "<a class=\"internal-link\" href=\"Programming/Programming.md\"> Programming </a>"
+        "<a class=\"internal-link\" href=\"Home/Home.md\"> Home </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -235,7 +240,8 @@
         "<a class=\"internal-link\" href=\"Templates/Dashboard/Project Template.md\"> Project Template </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 2.md\"> Test 2 </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>",
-        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>"
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>",
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test Task 1.md\"> Test Task 1 </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -310,7 +316,9 @@
         "<a class=\"internal-link\" href=\"Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 2.md\"> Test 2 </a>",
         "<a class=\"internal-link\" href=\"Test Project/Untitled Kanban.md\"> Untitled Kanban </a>",
-        "<a class=\"internal-link\" href=\"Test Project/Untitled Kanban.md\"> Untitled Kanban </a>"
+        "<a class=\"internal-link\" href=\"Test Project/Untitled Kanban.md\"> Untitled Kanban </a>",
+        "<a class=\"internal-link\" href=\"Test Project/Test Project.md\"> Test Project </a>",
+        "<a class=\"internal-link\" href=\"Home/changelog.md\"> changelog </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>"
@@ -321,7 +329,8 @@
         "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
         "<a class=\"internal-link\" href=\"Home/changelog.md\"> changelog </a>",
-        "<a class=\"internal-link\" href=\"Home/changelog.md\"> changelog </a>"
+        "<a class=\"internal-link\" href=\"Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"Test Project/Untitled Kanban.md\"> Untitled Kanban </a>"
       ]
     }
   },

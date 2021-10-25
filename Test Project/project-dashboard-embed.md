@@ -1,11 +1,11 @@
 ---
 created: 2021-10-24T23:59:36-05:00
-updated: 2021-10-25T00:04:57-05:00
+updated: 2021-10-25T00:41:16-05:00
 ---
 ## Available Tasks
 
 ```dataview
-table Completed, Priority, Status, Project, due-date as "Due Date"
+table Completed, Priority, Status, Project, created as "Created On", due-date as "Due Date"
 from #test-tasks
 where file.name != "Task Template"
 where defer-date < date(now) and completed != 1
