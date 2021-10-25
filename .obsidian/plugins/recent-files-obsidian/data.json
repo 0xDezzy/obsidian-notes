@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Test",
-      "path": "1.1 Tasks/Test.md"
+      "basename": "Oct 24th 2021",
+      "path": "1. Notes/Daily/Oct 24th 2021.md"
     },
     {
-      "basename": "0. Home",
-      "path": "0. Home/0. Home.md"
-    },
-    {
-      "basename": "Daily Note Template",
-      "path": "99. Templates/Journal/Daily Note Template.md"
+      "basename": "2021-W43",
+      "path": "1. Notes/Weekly/2021-W43.md"
     },
     {
       "basename": "Weekly Note Template",
@@ -19,6 +15,14 @@
     {
       "basename": "Monthly Note Template",
       "path": "99. Templates/Journal/Monthly Note Template.md"
+    },
+    {
+      "basename": "Daily Note Template",
+      "path": "99. Templates/Journal/Daily Note Template.md"
+    },
+    {
+      "basename": "0. Home",
+      "path": "0. Home/0. Home.md"
     },
     {
       "basename": "2. Programming",

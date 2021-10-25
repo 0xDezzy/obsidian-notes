@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1.1 Tasks/Test.md",
+            "file": "1. Notes/Daily/Oct 24th 2021.md",
             "mode": "source"
           }
         },
@@ -19,7 +19,73 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.1 Tasks/Test.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Daily/Oct 24th 2021.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Weekly/2021-W43.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Weekly Note Template.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":8,\"ch\":3}}}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Weekly/2021-W43.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}}}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Weekly Note Template.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":8,\"ch\":3}}}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Weekly/2021-W43.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Daily/Oct 24th 2021.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Weekly Note Template.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Monthly Note Template.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Daily Note Template.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}}}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Weekly/2021-W43.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1.1 Tasks/Test.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
@@ -69,42 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Monthly Note Template.md\",\"mode\":\"source\"}}",
               "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Daily Note Template.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Weekly Note Template.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Monthly Note Template.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":2,\"ch\":3},\"to\":{\"line\":2,\"ch\":3}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Journal/Daily Note Template.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":2,\"ch\":3}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -248,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1.1 Tasks/Test.md"
+                "file": "1. Notes/Daily/Oct 24th 2021.md"
               }
             },
             "pane-relief:history-v1": {
@@ -284,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1.1 Tasks/Test.md",
+                "file": "1. Notes/Daily/Oct 24th 2021.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1.1 Tasks/Test.md",
+                "file": "1. Notes/Daily/Oct 24th 2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,15 +372,15 @@
   },
   "active": "cd77631d04e9fa37",
   "lastOpenFiles": [
-    "1.1 Tasks/Test.md",
-    "0. Home/0. Home.md",
-    "99. Templates/Journal/Daily Note Template.md",
+    "1. Notes/Daily/Oct 24th 2021.md",
+    "1. Notes/Weekly/2021-W43.md",
     "99. Templates/Journal/Weekly Note Template.md",
     "99. Templates/Journal/Monthly Note Template.md",
+    "99. Templates/Journal/Daily Note Template.md",
+    "1.1 Tasks/Test.md",
+    "0. Home/0. Home.md",
     "2. Programming/2. Programming.md",
     "1. Notes/1. Notes.md",
-    "1. Notes/Daily/Oct 24th 2021.md",
-    "1. Notes/test.md",
-    "0. Home/changelog.md"
+    "1. Notes/test.md"
   ]
 }

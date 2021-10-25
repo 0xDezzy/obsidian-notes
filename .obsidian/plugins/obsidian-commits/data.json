@@ -22,7 +22,7 @@
     "0. Home/changelog.md": {
       "size": 187,
       "tags": 0,
-      "links": 6
+      "links": 8
     },
     "0. Home/0. Home.md": {
       "size": 112,
@@ -38,13 +38,23 @@
       "size": 16,
       "tags": 0,
       "links": 0
+    },
+    "1. Notes/Weekly/2021-W43.md": {
+      "size": 102,
+      "tags": 0,
+      "links": 0
+    },
+    "1. Notes/Daily/Oct 24th 2021.md": {
+      "size": 130,
+      "tags": 0,
+      "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 1,
-      "Create": 3,
-      "Link": 2,
+      "Refactor": 2,
+      "Create": 6,
+      "Link": 3,
       "Expand": 0
     }
   },
@@ -71,7 +81,7 @@
       "18": 0,
       "19": 0,
       "20": 0,
-      "21": 6,
+      "21": 11,
       "22": 0,
       "23": 0
     }
@@ -84,7 +94,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 6
+      "Sun": 11
     }
   },
   "recentCommits": {
@@ -93,17 +103,22 @@
       "Created": [
         "<a class=\"internal-link\" href=\"1. Notes/1. Notes.md\"> 1. Notes </a>",
         "<a class=\"internal-link\" href=\"2. Programming/2. Programming.md\"> 2. Programming </a>",
-        "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W43.md\"> 2021-W43 </a>",
+        "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 24th 2021.md\"> Oct 24th 2021 </a>"
       ],
       "Renamed": [],
       "Tagged": [],
       "Refactored": [],
       "Deleted": [
-        "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"1.1 Tasks/Test.md\"> Test </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
-        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>"
+        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": []
