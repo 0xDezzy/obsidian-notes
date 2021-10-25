@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Dashboard",
+      "path": "1. Dashboard/Dashboard.md"
+    },
+    {
+      "basename": "1. Dashboard",
+      "path": "1. Dashboard/1. Dashboard.md"
+    },
+    {
       "basename": "0. Home",
       "path": "0. Home/0. Home.md"
     },
     {
-      "basename": "Dashboard",
-      "path": "0. Home/Dashboard.md"
+      "basename": "Projects",
+      "path": "1. Dashboard/Projects.md"
     },
     {
       "basename": "changelog",

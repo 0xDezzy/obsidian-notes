@@ -7,7 +7,7 @@
     "0. Home/changelog.md": {
       "size": 187,
       "tags": 0,
-      "links": 8
+      "links": 9
     },
     "0. Home/0. Home.md": {
       "size": 112,
@@ -39,12 +39,22 @@
       "tags": 0,
       "links": 0
     },
-    "0. Home/Dashboard.md": {
+    "Templates/Dashboard/New Task.md": {
       "size": 0,
       "tags": 0,
       "links": 0
     },
-    "Templates/Dashboard/New Task.md": {
+    "1. Dashboard/1. Dashboard.md": {
+      "size": 14,
+      "tags": 0,
+      "links": 0
+    },
+    "1. Dashboard/Dashboard.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "1. Dashboard/Projects.md": {
       "size": 0,
       "tags": 0,
       "links": 0
@@ -52,9 +62,9 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 21,
-      "Create": 15,
-      "Link": 7,
+      "Refactor": 24,
+      "Create": 19,
+      "Link": 9,
       "Expand": 0
     }
   },
@@ -82,7 +92,7 @@
       "19": 0,
       "20": 0,
       "21": 11,
-      "22": 32,
+      "22": 41,
       "23": 0
     }
   },
@@ -94,7 +104,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 43
+      "Sun": 52
     }
   },
   "recentCommits": {
@@ -115,7 +125,11 @@
         "<a class=\"internal-link\" href=\"1.1 Tasks/1.1 Tasks.md\"> 1.1 Tasks </a>",
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0. Home/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"Templates/Dashboard/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"Templates/Dashboard/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"0. Home/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -142,7 +156,9 @@
         "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 25th 2021.md\"> Oct 25th 2021 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>"
+        "<a class=\"internal-link\" href=\"1. Dashboard/1.1 Tasks.md\"> 1.1 Tasks </a>",
+        "<a class=\"internal-link\" href=\"0. Home/Projects.md\"> Projects </a>",
+        "<a class=\"internal-link\" href=\"0. Home/Dashboard.md\"> Dashboard </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
@@ -150,12 +166,15 @@
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
-        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
-        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>"
       ]
     }
   },

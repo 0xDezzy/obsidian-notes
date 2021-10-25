@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "0. Home/0. Home.md",
-            "mode": "preview"
+            "file": "1. Dashboard/Dashboard.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,25 +19,13 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
@@ -49,20 +37,62 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/changelog.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Projects.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Projects.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":3},\"to\":{\"line\":25,\"ch\":3}}}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+              "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Projects.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "cd77631d04e9fa37",
@@ -73,14 +103,20 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/New Task.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Projects.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":14.208333333333334}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Projects.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
             },
             {
               "leaf": "cd77631d04e9fa37",
@@ -91,49 +127,13 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1.1 Tasks.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Projects.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Tasks/New Task Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1.1 Tasks.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":0},\"to\":{\"line\":36,\"ch\":0}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"99. Templates/Tasks/New Task Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1.1 Tasks.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Notes/Daily/Oct 24th 2021.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Journal/Weekly Note Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Journal/Monthly Note Template.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             }
           ]
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Home/0. Home.md"
+                "file": "1. Dashboard/Dashboard.md"
               }
             },
             "pane-relief:history-v1": {
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Home/0. Home.md",
+                "file": "1. Dashboard/Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Home/0. Home.md",
+                "file": "1. Dashboard/Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,15 +372,15 @@
   },
   "active": "cd77631d04e9fa37",
   "lastOpenFiles": [
+    "1. Dashboard/Dashboard.md",
+    "1. Dashboard/1. Dashboard.md",
     "0. Home/0. Home.md",
+    "1. Dashboard/Projects.md",
+    "0. Home/Projects.md",
     "0. Home/Dashboard.md",
     "0. Home/changelog.md",
     "Templates/Dashboard/New Task.md",
     "1. Dashboard/1.1 Tasks.md",
-    "99. Templates/Tasks/New Task Template.md",
-    "1. Notes/Daily/Oct 24th 2021.md",
-    "Templates/Journal/Weekly Note Template.md",
-    "Templates/Journal/Monthly Note Template.md",
-    "Templates/Journal/Daily Note Template.md"
+    "99. Templates/Tasks/New Task Template.md"
   ]
 }
