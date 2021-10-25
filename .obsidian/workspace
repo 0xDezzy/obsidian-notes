@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Untitled.md",
-            "mode": "source"
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,7 +19,7 @@
             {
               "leaf": "94d6600c20711b4c",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
