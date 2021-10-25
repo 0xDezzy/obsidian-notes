@@ -5,16 +5,24 @@
       "path": "Test Project/Untitled Kanban.md"
     },
     {
+      "basename": "Dashboard-embed",
+      "path": "Dashboard/Dashboard-embed.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
+    },
+    {
+      "basename": "project-dashboard-embed",
+      "path": "Test Project/project-dashboard-embed.md"
+    },
+    {
       "basename": "Test Task 1",
       "path": "Test Project/Kanban Notes/Test Task 1.md"
     },
     {
       "basename": "Test Project",
       "path": "Test Project/Test Project.md"
-    },
-    {
-      "basename": "project-dashboard-embed",
-      "path": "Test Project/project-dashboard-embed.md"
     },
     {
       "basename": "Project Template",
@@ -27,14 +35,6 @@
     {
       "basename": "kanban-template",
       "path": "Templates/Kanban/kanban-template.md"
-    },
-    {
-      "basename": "Dashboard-embed",
-      "path": "Dashboard/Dashboard-embed.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard/Dashboard.md"
     },
     {
       "basename": "Programming",

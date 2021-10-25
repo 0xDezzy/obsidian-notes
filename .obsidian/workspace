@@ -24,6 +24,54 @@
             {
               "leaf": "94d6600c20711b4c",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Test Task 1 1.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/project-dashboard-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Untitled.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
@@ -306,14 +354,14 @@
   "active": "94d6600c20711b4c",
   "lastOpenFiles": [
     "Test Project/Untitled Kanban.md",
+    "Dashboard/Dashboard-embed.md",
+    "Dashboard/Dashboard.md",
+    "Test Project/Kanban Notes/Test Task 1 1.md",
+    "Test Project/project-dashboard-embed.md",
     "Test Project/Kanban Notes/Untitled.md",
     "Test Project/Kanban Notes/Test Task 1.md",
     "Test Project/Test Project.md",
-    "Test Project/project-dashboard-embed.md",
     "Templates/Dashboard/Project Template.md",
-    "Test Project/Kanban Notes/Test.md",
-    "Test Project/Kanban Notes/Test 2.md",
-    "undefined.md",
-    "Templates/Dashboard/Task Template.md"
+    "Test Project/Kanban Notes/Test.md"
   ]
 }
