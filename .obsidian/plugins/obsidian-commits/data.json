@@ -1,0 +1,119 @@
+{
+  "initialized": true,
+  "trackedProjects": [
+    "/"
+  ],
+  "filesCheckpoint": {
+    "99. Templates/Journal/Weekly Note Template.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "99. Templates/Journal/Monthly Note Template.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "99. Templates/Journal/Daily Note Template.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "0. Home/changelog.md": {
+      "size": 187,
+      "tags": 0,
+      "links": 6
+    },
+    "0. Home/0. Home.md": {
+      "size": 112,
+      "tags": 0,
+      "links": 3
+    },
+    "1. Notes/1. Notes.md": {
+      "size": 10,
+      "tags": 0,
+      "links": 0
+    },
+    "2. Programming/2. Programming.md": {
+      "size": 16,
+      "tags": 0,
+      "links": 0
+    }
+  },
+  "commitTypes": {
+    "/": {
+      "Refactor": 0,
+      "Create": 2,
+      "Link": 2,
+      "Expand": 0
+    }
+  },
+  "dailyCommits": {
+    "/": {
+      "0": 0,
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0,
+      "11": 0,
+      "12": 0,
+      "13": 0,
+      "14": 0,
+      "15": 0,
+      "16": 0,
+      "17": 0,
+      "18": 0,
+      "19": 0,
+      "20": 0,
+      "21": 4,
+      "22": 0,
+      "23": 0
+    }
+  },
+  "weeklyCommits": {
+    "/": {
+      "Mon": 0,
+      "Tue": 0,
+      "Wed": 0,
+      "Thu": 0,
+      "Fri": 0,
+      "Sat": 0,
+      "Sun": 4
+    }
+  },
+  "recentCommits": {
+    "/": {
+      "Expanded": [],
+      "Created": [
+        "<a class=\"internal-link\" href=\"1. Notes/1. Notes.md\"> 1. Notes </a>",
+        "<a class=\"internal-link\" href=\"2. Programming/2. Programming.md\"> 2. Programming </a>"
+      ],
+      "Renamed": [],
+      "Tagged": [],
+      "Refactored": [],
+      "Deleted": [],
+      "Linked": [
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>"
+      ],
+      "Removed Tags from": [],
+      "Removed Links from": []
+    }
+  },
+  "ignoreList": [],
+  "divWidth": 50,
+  "divHeight": 400,
+  "divAlign": "left",
+  "topCommits": 2,
+  "commitThreshold": 2000,
+  "commitPerc": 15,
+  "fillColor": "rgba(51, 153, 204, 0.4)",
+  "borderColor": "rgba(51, 153, 204, 1)",
+  "gridColor": "grey"
+}

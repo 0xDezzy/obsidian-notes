@@ -1,0 +1,6 @@
+{
+  "time-format": "hh:mm",
+  "show-relative-date": true,
+  "hide-date-in-title": true,
+  "date-picker-week-start": 1
+}

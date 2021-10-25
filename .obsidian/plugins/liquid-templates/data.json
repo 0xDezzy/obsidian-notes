@@ -1,0 +1,7 @@
+{
+  "templatesFolder": "99. Templates/Liquid",
+  "excludeFolders": "",
+  "dateFormat": "yyyy-MM-dd",
+  "timeFormat": "k:m",
+  "autocompleteTrigger": ";;"
+}

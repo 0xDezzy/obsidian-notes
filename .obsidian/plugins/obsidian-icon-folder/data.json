@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "enableRemixiconsLine": true,
+    "enableRemixiconsFill": false,
+    "enableFontawesomeFill": false,
+    "enableFontawesomeLine": true,
+    "enableFontawesomeBrands": true
+  },
+  "0. Home": "RiRiHomeLine",
+  "1. Notes": "RiRiPencilLine",
+  "2. Programming": "RiRiCodeBoxLine",
+  "99. Templates": "RiRiFilePaperLine"
+}
