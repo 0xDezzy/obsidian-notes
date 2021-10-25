@@ -1,36 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Dashboard",
-      "path": "Dashboard/Dashboard.md"
-    },
-    {
-      "basename": "Projects-embed",
-      "path": "Dashboard/Projects-embed.md"
-    },
-    {
-      "basename": "New Task",
-      "path": "Dashboard/Tasks/New Task.md"
+      "basename": "Project Template",
+      "path": "Templates/Dashboard/Project Template.md"
     },
     {
       "basename": "Dashboard-embed",
       "path": "Dashboard/Dashboard-embed.md"
     },
     {
-      "basename": "Test Project",
-      "path": "Dashboard/Projects/Test Project.md"
+      "basename": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
     },
     {
-      "basename": "Home",
-      "path": "Home/Home.md"
-    },
-    {
-      "basename": "Project Template",
-      "path": "Templates/Dashboard/Project Template.md"
+      "basename": "Test 1",
+      "path": "Dashboard/Tasks/Test 1.md"
     },
     {
       "basename": "Task Template",
       "path": "Templates/Dashboard/Task Template.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home/Home.md"
     },
     {
       "basename": "Programming",

@@ -4,175 +4,162 @@
     "type": "split",
     "children": [
       {
-        "id": "92b664b985afc7ee",
-        "type": "split",
-        "children": [
-          {
-            "id": "59835a4b0228d317",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Dashboard/Task Template.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Task Template.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":12.508771929824562}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/New Task.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/New Task.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/New Task.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-                  "eState": "{\"scroll\":4.666666666666667}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home/Home.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects-embed.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/New Task.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                },
-                {
-                  "leaf": "59835a4b0228d317",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "d11ae603072f0fd8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard/Projects-embed.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "d11ae603072f0fd8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects-embed.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":101},\"to\":{\"line\":6,\"ch\":101}}}"
-                },
-                {
-                  "leaf": "d11ae603072f0fd8",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/New Task.md\",\"mode\":\"preview\"}}",
-                  "eState": "{}"
-                }
-              ]
-            }
+        "id": "833d5302f7815f14",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dashboard/Dashboard-embed.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":34}}}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Project Template.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/Test Task.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects-embed.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/Test Task.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/New Project.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "833d5302f7815f14",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/New Project.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
+      },
+      {
+        "id": "ff86bd1475e1a82c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Templates/Dashboard/Project Template.md",
+            "mode": "preview"
+          }
+        },
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "ff86bd1475e1a82c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Project Template.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "ff86bd1475e1a82c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/Test 1.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            }
+          ]
+        }
       }
     ],
     "direction": "vertical"
@@ -313,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Dashboard/Task Template.md"
+                "file": "Templates/Dashboard/Project Template.md"
               }
             },
             "pane-relief:history-v1": {
@@ -349,7 +336,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Dashboard/Task Template.md",
+                "file": "Templates/Dashboard/Project Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -370,7 +357,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Dashboard/Task Template.md",
+                "file": "Templates/Dashboard/Project Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -405,17 +392,16 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "59835a4b0228d317",
+  "active": "ff86bd1475e1a82c",
   "lastOpenFiles": [
-    "Templates/Dashboard/Task Template.md",
-    "Dashboard/Dashboard.md",
-    "Dashboard/Projects-embed.md",
-    "Dashboard/Tasks/New Task.md",
-    "Dashboard/Dashboard-embed.md",
-    "Dashboard/Projects/Test Project.md",
-    "Home/Home.md",
     "Templates/Dashboard/Project Template.md",
-    "Notes.md",
-    "Programming/Programming.md"
+    "Dashboard/Dashboard-embed.md",
+    "Dashboard/Dashboard.md",
+    "Dashboard/Tasks/Test 1.md",
+    "Dashboard/Projects-embed.md",
+    "Dashboard/Tasks/Task 2.md",
+    "Dashboard/Tasks/Test Task.md",
+    "Dashboard/Projects/Test Project.md",
+    "Dashboard/Projects/New Project.md"
   ]
 }
