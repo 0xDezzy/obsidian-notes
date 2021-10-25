@@ -30,7 +30,7 @@
             }
           },
           {
-            "id": "592385c51e674b9c",
+            "id": "00ab38ae584c73f1",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -42,32 +42,10 @@
               "pos": 0,
               "stack": [
                 {
-                  "leaf": "592385c51e674b9c",
+                  "leaf": "00ab38ae584c73f1",
                   "group": null,
                   "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
                   "eState": "{}"
-                }
-              ]
-            }
-          },
-          {
-            "id": "33929c77a8cbac7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Test Project/Kanban Notes/Test Task 1.md",
-                "mode": "source"
-              }
-            },
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "leaf": "33929c77a8cbac7d",
-                  "group": null,
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Test Task 1.md\",\"mode\":\"source\"}}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":10},\"to\":{\"line\":4,\"ch\":10}}}"
                 }
               ]
             }
@@ -306,17 +284,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "592385c51e674b9c",
+  "active": "00ab38ae584c73f1",
   "lastOpenFiles": [
     "Test Project/Untitled Kanban.md",
     "Test Project/Kanban Notes/Test Task 1.md",
+    "Templates/Dashboard/Project Template.md",
     "Test Project/project-dashboard-embed.md",
     "Test Project/Test Project.md",
     "Test Project/Kanban Notes/Test.md",
     "Test Project/Kanban Notes/Test 2.md",
     "undefined.md",
     "Templates/Dashboard/Task Template.md",
-    "Templates/Kanban/kanban-template.md",
-    "Dashboard/Dashboard-embed.md"
+    "Templates/Kanban/kanban-template.md"
   ]
 }

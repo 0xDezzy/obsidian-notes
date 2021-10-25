@@ -2,5 +2,31 @@
   "time-format": "hh:mm",
   "show-relative-date": true,
   "hide-date-in-title": true,
-  "date-picker-week-start": 1
+  "date-picker-week-start": 1,
+  "metadata-keys": [
+    {
+      "metadataKey": "tags",
+      "label": "Tags",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "Status",
+      "label": "Status",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "Priority",
+      "label": "Priority",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "due-date",
+      "label": "Due Date",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    }
+  ]
 }

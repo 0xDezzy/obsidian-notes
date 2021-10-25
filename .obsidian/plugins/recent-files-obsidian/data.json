@@ -9,6 +9,10 @@
       "path": "Test Project/Kanban Notes/Test Task 1.md"
     },
     {
+      "basename": "Project Template",
+      "path": "Templates/Dashboard/Project Template.md"
+    },
+    {
       "basename": "project-dashboard-embed",
       "path": "Test Project/project-dashboard-embed.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Home",
       "path": "Home/Home.md"
-    },
-    {
-      "basename": "Project Template",
-      "path": "Templates/Dashboard/Project Template.md"
     },
     {
       "basename": "Test 1",
