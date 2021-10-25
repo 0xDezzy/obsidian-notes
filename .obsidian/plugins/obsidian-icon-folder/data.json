@@ -6,9 +6,8 @@
     "enableFontawesomeLine": true,
     "enableFontawesomeBrands": true
   },
-  "0. Home": "RiRiHomeLine",
-  "1. Notes": "RiRiPencilLine",
-  "2. Programming": "RiRiCodeBoxLine",
   "Templates": "RiRiFilePaperLine",
-  "1. Dashboard": "RiRiDashboardLine"
+  "Programming": "RiRiCodeBoxLine",
+  "Notes": "RiRiPencilLine",
+  "Home": "RiRiHomeLine"
 }

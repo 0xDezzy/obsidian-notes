@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Dashboard/1. Dashboard.md",
-            "mode": "source"
+            "file": "1. Dashboard/2. Dashboard.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,19 +19,25 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/2. Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Task Template.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
@@ -43,7 +49,49 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/New Task.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Untitled.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Task Template.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Task Template.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "cd77631d04e9fa37",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
@@ -55,7 +103,7 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
@@ -67,74 +115,26 @@
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Projects.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Projects.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
               "leaf": "cd77631d04e9fa37",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home/0. Home.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Projects.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/Projects.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":3},\"to\":{\"line\":25,\"ch\":3}}}"
             }
           ]
         }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Dashboard/1. Dashboard.md"
+                "file": "1. Dashboard/2. Dashboard.md"
               }
             },
             "pane-relief:history-v1": {
@@ -314,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Dashboard/1. Dashboard.md",
+                "file": "1. Dashboard/2. Dashboard.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Dashboard/1. Dashboard.md",
+                "file": "1. Dashboard/2. Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -372,15 +372,15 @@
   },
   "active": "cd77631d04e9fa37",
   "lastOpenFiles": [
-    "1. Dashboard/1. Dashboard.md",
+    "1. Dashboard/2. Dashboard.md",
+    "1Dashboard/Dashboard.md",
+    "1Dashboard/1. Dashboard.md",
+    "Templates/Task Template.md",
+    "Templates/Dashboard/New Task.md",
+    "Templates/Dashboard/Untitled.md",
     "1. Dashboard/Task Template.md",
     "Templates/Task Template.md",
     "1. Dashboard/Task.md",
-    "1. Dashboard/_templates/Task Template.md",
-    "1. Dashboard/Projects.md",
-    "1. Dashboard/Dashboard.md",
-    "0. Home/0. Home.md",
-    "0. Home/Projects.md",
-    "0. Home/Dashboard.md"
+    "1. Dashboard/_templates/Task Template.md"
   ]
 }
