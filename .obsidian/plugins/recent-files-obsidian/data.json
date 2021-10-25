@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled Kanban",
+      "path": "Test Project/Untitled Kanban.md"
+    },
+    {
       "basename": "Test Task 1",
       "path": "Test Project/Kanban Notes/Test Task 1.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Test Project/Untitled Kanban.md"
+      "basename": "Test Project",
+      "path": "Test Project/Test Project.md"
     },
     {
       "basename": "project-dashboard-embed",
@@ -15,10 +19,6 @@
     {
       "basename": "Project Template",
       "path": "Templates/Dashboard/Project Template.md"
-    },
-    {
-      "basename": "Test Project",
-      "path": "Test Project/Test Project.md"
     },
     {
       "basename": "Task Template",

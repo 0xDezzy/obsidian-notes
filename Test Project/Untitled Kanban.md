@@ -2,8 +2,6 @@
 
 kanban-plugin: basic
 
-created: 2021-10-25T01:01:20-05:00
-updated: 2021-10-25T01:13:14-05:00
 ---
 
 ## Idea

@@ -97,8 +97,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 89,
-      "Create": 64,
+      "Refactor": 90,
+      "Create": 65,
       "Link": 33,
       "Expand": 0
     }
@@ -106,7 +106,7 @@
   "dailyCommits": {
     "/": {
       "0": 20,
-      "1": 0,
+      "1": 2,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -133,7 +133,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 20,
+      "Mon": 22,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -146,6 +146,7 @@
     "/": {
       "Expanded": [],
       "Created": [
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test Task 1.md\"> Test Task 1 </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test 2.md\"> Test 2 </a>",
         "<a class=\"internal-link\" href=\"undefined.md\"> undefined </a>",
@@ -195,8 +196,7 @@
         "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard.md\"> Dashboard </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard-embed.md\"> Dashboard-embed </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Projects-embed.md\"> Projects-embed </a>",
-        "<a class=\"internal-link\" href=\"Home/Home.md\"> Home </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Projects-embed.md\"> Projects-embed </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -246,6 +246,7 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1.1 Tasks/Test.md\"> Test </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W43.md\"> 2021-W43 </a>",
@@ -295,8 +296,7 @@
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>",
         "<a class=\"internal-link\" href=\"undefined.md\"> undefined </a>",
         "<a class=\"internal-link\" href=\"undefined.md\"> undefined </a>",
-        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test 2.md\"> Test 2 </a>",
-        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>"
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test 2.md\"> Test 2 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
