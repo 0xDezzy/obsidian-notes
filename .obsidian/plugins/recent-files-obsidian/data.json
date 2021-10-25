@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Project Template",
-      "path": "Templates/Dashboard/Project Template.md"
+      "basename": "Untitled Kanban",
+      "path": "Test Project/Untitled Kanban.md"
     },
     {
       "basename": "Dashboard-embed",
@@ -13,20 +13,32 @@
       "path": "Dashboard/Dashboard.md"
     },
     {
-      "basename": "Test 1",
-      "path": "Dashboard/Tasks/Test 1.md"
+      "basename": "Programming",
+      "path": "Programming/Programming.md"
     },
     {
-      "basename": "Task Template",
-      "path": "Templates/Dashboard/Task Template.md"
+      "basename": "Notes",
+      "path": "Notes/Notes.md"
     },
     {
       "basename": "Home",
       "path": "Home/Home.md"
     },
     {
-      "basename": "Programming",
-      "path": "Programming/Programming.md"
+      "basename": "Task Template",
+      "path": "Templates/Dashboard/Task Template.md"
+    },
+    {
+      "basename": "Project Template",
+      "path": "Templates/Dashboard/Project Template.md"
+    },
+    {
+      "basename": "Test 1",
+      "path": "Dashboard/Tasks/Test 1.md"
+    },
+    {
+      "basename": "Test 2",
+      "path": "Dashboard/Tasks/Test 2.md"
     },
     {
       "basename": "changelog",

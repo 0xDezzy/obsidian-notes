@@ -4,158 +4,93 @@
     "type": "split",
     "children": [
       {
-        "id": "833d5302f7815f14",
+        "id": "69ddac8a14dc4b7f",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "Dashboard/Dashboard-embed.md",
-            "mode": "source"
+            "file": "Test Project/Untitled Kanban.md"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "69ddac8a14dc4b7f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "69ddac8a14dc4b7f",
+              "group": null,
+              "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Dashboard/Untitled Kanban.md\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"source\"}}",
-              "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":34}}}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Project-embed.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects-embed.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Programming.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Notes/Notes.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Project Template.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home/Home.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard-embed.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":0}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/Test Task.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "833d5302f7815f14",
+              "leaf": "69ddac8a14dc4b7f",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects-embed.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/Test Task.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/New Project.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/Test Project.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "833d5302f7815f14",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Projects/New Project.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            }
-          ]
-        }
-      },
-      {
-        "id": "ff86bd1475e1a82c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Templates/Dashboard/Project Template.md",
-            "mode": "preview"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "ff86bd1475e1a82c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Project Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "ff86bd1475e1a82c",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Tasks/Test 1.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -251,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "4f4d1ada2295b66c",
@@ -300,7 +236,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Dashboard/Project Template.md"
+                "file": "Test Project/Untitled Kanban.md"
               }
             },
             "pane-relief:history-v1": {
@@ -336,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Dashboard/Project Template.md",
+                "file": "Test Project/Untitled Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -357,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Dashboard/Project Template.md",
+                "file": "Test Project/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -392,16 +328,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "ff86bd1475e1a82c",
+  "active": "69ddac8a14dc4b7f",
   "lastOpenFiles": [
-    "Templates/Dashboard/Project Template.md",
+    "Test Project/Untitled Kanban.md",
     "Dashboard/Dashboard-embed.md",
+    "Dashboard/Untitled Kanban.md",
+    "Dashboard/Project-embed.md",
     "Dashboard/Dashboard.md",
-    "Dashboard/Tasks/Test 1.md",
-    "Dashboard/Projects-embed.md",
-    "Dashboard/Tasks/Task 2.md",
-    "Dashboard/Tasks/Test Task.md",
-    "Dashboard/Projects/Test Project.md",
-    "Dashboard/Projects/New Project.md"
+    "Programming/Programming.md",
+    "Notes/Notes.md",
+    "Home/Home.md",
+    "Templates/Dashboard/Task Template.md",
+    "Templates/Dashboard/Project Template.md"
   ]
 }

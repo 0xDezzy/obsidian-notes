@@ -22,7 +22,7 @@
     "Home/changelog.md": {
       "size": 187,
       "tags": 0,
-      "links": 9
+      "links": 10
     },
     "Dashboard/Dashboard-embed.md": {
       "size": 1140,
@@ -56,15 +56,25 @@
     },
     "Dashboard/Tasks/Test 1.md": {
       "size": 309,
-      "tags": 0,
+      "tags": 1,
+      "links": 1
+    },
+    "Templates/Dashboard/Project Template.md": {
+      "size": 0,
+      "tags": 1,
       "links": 0
+    },
+    "Dashboard/Tasks/Test 2.md": {
+      "size": 311,
+      "tags": 1,
+      "links": 1
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 76,
-      "Create": 50,
-      "Link": 19,
+      "Refactor": 79,
+      "Create": 54,
+      "Link": 25,
       "Expand": 0
     }
   },
@@ -93,7 +103,7 @@
       "20": 0,
       "21": 11,
       "22": 45,
-      "23": 89
+      "23": 102
     }
   },
   "weeklyCommits": {
@@ -104,13 +114,16 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 145
+      "Sun": 158
     }
   },
   "recentCommits": {
     "/": {
       "Expanded": [],
       "Created": [
+        "<a class=\"internal-link\" href=\"Dashboard/Untitled Kanban.md\"> Untitled Kanban </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 1 1.md\"> Test 1 1 </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1. Notes/1. Notes.md\"> 1. Notes </a>",
         "<a class=\"internal-link\" href=\"2. Programming/2. Programming.md\"> 2. Programming </a>",
         "<a class=\"internal-link\" href=\"1.1 Tasks/Untitled.md\"> Untitled </a>",
@@ -158,9 +171,7 @@
         "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -189,14 +200,18 @@
         "<a class=\"internal-link\" href=\"Dashboard/Projects/Test Project.md\"> Test Project </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test Task.md\"> Test Task </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/Task 2.md\"> Task 2 </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 1.md\"> Test 1 </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 1.md\"> Test 1 </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 2.md\"> Test 2 </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Dashboard/Project Template.md\"> Project Template </a>",
         "<a class=\"internal-link\" href=\"Templates/Dashboard/Task Template.md\"> Task Template </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Projects/Test Project.md\"> Test Project </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Projects/Test Project.md\"> Test Project </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 1.md\"> Test 1 </a>",
+        "<a class=\"internal-link\" href=\"Templates/Dashboard/Project Template.md\"> Project Template </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 2.md\"> Test 2 </a>"
       ],
       "Refactored": [],
       "Deleted": [
@@ -243,7 +258,9 @@
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test Task.md\"> Test Task </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Projects/Test Project.md\"> Test Project </a>",
         "<a class=\"internal-link\" href=\"Templates/Dashboard/Project Template.md\"> Project Template </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Projects-embed.md\"> Projects-embed </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Projects-embed.md\"> Projects-embed </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Project-embed.md\"> Project-embed </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Untitled Kanban.md\"> Untitled Kanban </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
@@ -259,7 +276,10 @@
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
         "<a class=\"internal-link\" href=\"Home/Home.md\"> Home </a>",
         "<a class=\"internal-link\" href=\"Templates/Dashboard/Task Template.md\"> Task Template </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 1.md\"> Test 1 </a>",
+        "<a class=\"internal-link\" href=\"Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 2.md\"> Test 2 </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

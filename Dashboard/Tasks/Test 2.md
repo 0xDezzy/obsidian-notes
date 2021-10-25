@@ -1,10 +1,10 @@
 ---
 created: 2021-10-24T23:25:22-05:00
-updated: 2021-10-24T23:49:26-05:00
+updated: 2021-10-24T23:49:20-05:00
 ---
 #tasks
 
-Completed::
+Completed:: 1
 Project:: [[Project Template]]
 Status:: Active
 Priority::
