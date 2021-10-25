@@ -1,44 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
-    },
-    {
-      "basename": "Untitled Kanban",
-      "path": "Test Project/Untitled Kanban.md"
-    },
-    {
-      "basename": "Dashboard-embed",
-      "path": "Dashboard/Dashboard-embed.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard/Dashboard.md"
-    },
-    {
       "basename": "project-dashboard-embed",
       "path": "Test Project/project-dashboard-embed.md"
-    },
-    {
-      "basename": "Test Task 1",
-      "path": "Test Project/Kanban Notes/Test Task 1.md"
-    },
-    {
-      "basename": "Test Project",
-      "path": "Test Project/Test Project.md"
     },
     {
       "basename": "Project Template",
       "path": "Templates/Dashboard/Project Template.md"
     },
     {
-      "basename": "Task Template",
-      "path": "Templates/Dashboard/Task Template.md"
+      "basename": "Untitled Kanban",
+      "path": "Test Project/Untitled Kanban.md"
+    },
+    {
+      "basename": "Test",
+      "path": "Test Project/Kanban Notes/Test.md"
     },
     {
       "basename": "kanban-template",
       "path": "Templates/Kanban/kanban-template.md"
+    },
+    {
+      "basename": "Test Task 1",
+      "path": "Test Project/Kanban Notes/Test Task 1.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
+    },
+    {
+      "basename": "Test Project",
+      "path": "Test Project/Test Project.md"
+    },
+    {
+      "basename": "Dashboard-embed",
+      "path": "Dashboard/Dashboard-embed.md"
+    },
+    {
+      "basename": "Task Template",
+      "path": "Templates/Dashboard/Task Template.md"
     },
     {
       "basename": "Programming",
@@ -51,14 +51,6 @@
     {
       "basename": "Home",
       "path": "Home/Home.md"
-    },
-    {
-      "basename": "Test 1",
-      "path": "Dashboard/Tasks/Test 1.md"
-    },
-    {
-      "basename": "Test 2",
-      "path": "Dashboard/Tasks/Test 2.md"
     },
     {
       "basename": "changelog",
