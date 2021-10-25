@@ -22,7 +22,7 @@
     "0. Home/changelog.md": {
       "size": 187,
       "tags": 0,
-      "links": 8
+      "links": 7
     },
     "0. Home/0. Home.md": {
       "size": 112,
@@ -39,22 +39,17 @@
       "tags": 0,
       "links": 0
     },
-    "1. Notes/Daily/Oct 24th 2021.md": {
-      "size": 130,
-      "tags": 0,
-      "links": 0
-    },
-    "1. Notes/Daily/Oct 25th 2021.md": {
-      "size": 200,
+    "1.1 Tasks/1.1 Tasks.md": {
+      "size": 11,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 6,
-      "Create": 10,
-      "Link": 3,
+      "Refactor": 10,
+      "Create": 12,
+      "Link": 4,
       "Expand": 0
     }
   },
@@ -82,7 +77,7 @@
       "19": 0,
       "20": 0,
       "21": 11,
-      "22": 8,
+      "22": 15,
       "23": 0
     }
   },
@@ -94,7 +89,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 19
+      "Sun": 26
     }
   },
   "recentCommits": {
@@ -110,7 +105,9 @@
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W43.md\"> 2021-W43 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
-        "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 25th 2021.md\"> Oct 25th 2021 </a>"
+        "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 25th 2021.md\"> Oct 25th 2021 </a>",
+        "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
+        "<a class=\"internal-link\" href=\"1.1 Tasks/1.1 Tasks.md\"> 1.1 Tasks </a>"
       ],
       "Renamed": [],
       "Tagged": [],
@@ -121,15 +118,21 @@
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W43.md\"> 2021-W43 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W43.md\"> 2021-W43 </a>",
+        "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>",
+        "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 24th 2021.md\"> Oct 24th 2021 </a>",
+        "<a class=\"internal-link\" href=\"1. Notes/Daily/Oct 25th 2021.md\"> Oct 25th 2021 </a>",
         "<a class=\"internal-link\" href=\"1. Notes/Weekly/2021-W44.md\"> 2021-W44 </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
       ],
       "Removed Tags from": [],
-      "Removed Links from": []
+      "Removed Links from": [
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
+      ]
     }
   },
   "ignoreList": [],
