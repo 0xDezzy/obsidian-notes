@@ -4,66 +4,66 @@
     "type": "split",
     "children": [
       {
-        "id": "2190ea972becfe65",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Test Project/Kanban Notes/Test.md",
-            "mode": "source"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "2190ea972becfe65",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Test.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
+        "id": "9c581966282d4a24",
+        "type": "split",
+        "children": [
+          {
+            "id": "d032d44ead79ce9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Project/project-dashboard-embed.md",
+                "mode": "preview"
+              }
+            },
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "d032d44ead79ce9e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/project-dashboard-embed.md\",\"mode\":\"preview\"}}",
+                  "eState": "{\"scroll\":6.888888888888889}"
+                },
+                {
+                  "leaf": "d032d44ead79ce9e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Test Project.md\",\"mode\":\"preview\"}}",
+                  "eState": "{}"
+                },
+                {
+                  "leaf": "d032d44ead79ce9e",
+                  "group": null,
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Test.md\",\"mode\":\"source\"}}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
+                }
+              ]
             }
-          ]
-        }
-      },
-      {
-        "id": "15ddfafc5d2ab7f7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Test Project/project-dashboard-embed.md",
-            "mode": "preview"
-          }
-        },
-        "pane-relief:history-v1": {
-          "pos": 0,
-          "stack": [
-            {
-              "leaf": "15ddfafc5d2ab7f7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/project-dashboard-embed.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+          },
+          {
+            "id": "31b388e5ce3e347f",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Test Project/Untitled Kanban.md"
+              }
             },
-            {
-              "leaf": "15ddfafc5d2ab7f7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Test.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "15ddfafc5d2ab7f7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/project-dashboard-embed.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "15ddfafc5d2ab7f7",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/Kanban Notes/Test.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "leaf": "31b388e5ce3e347f",
+                  "group": null,
+                  "state": "{\"type\":\"kanban\",\"state\":{\"file\":\"Test Project/Untitled Kanban.md\"}}",
+                  "eState": "{}"
+                }
+              ]
             }
-          ]
-        }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Project/Kanban Notes/Test.md"
+                "file": "Test Project/Untitled Kanban.md"
               }
             },
             "pane-relief:history-v1": {
@@ -240,7 +240,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Project/Kanban Notes/Test.md",
+                "file": "Test Project/Untitled Kanban.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Project/Kanban Notes/Test.md",
+                "file": "Test Project/Untitled Kanban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,17 +296,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2190ea972becfe65",
+  "active": "31b388e5ce3e347f",
   "lastOpenFiles": [
-    "Test Project/Kanban Notes/Test.md",
-    "Test Project/project-dashboard-embed.md",
-    "Templates/Dashboard/Task Template.md",
     "Test Project/Untitled Kanban.md",
-    "Templates/Kanban/kanban-template.md",
+    "Test Project/project-dashboard-embed.md",
     "Test Project/Test Project.md",
+    "Test Project/Kanban Notes/Test.md",
+    "undefined.md",
+    "Templates/Dashboard/Task Template.md",
+    "Templates/Kanban/kanban-template.md",
     "Dashboard/Dashboard-embed.md",
     "Dashboard/Dashboard.md",
-    "Dashboard/Untitled Kanban.md",
-    "Dashboard/Project-embed.md"
+    "Dashboard/Untitled Kanban.md"
   ]
 }
