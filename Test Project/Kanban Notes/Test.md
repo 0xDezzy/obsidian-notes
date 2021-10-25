@@ -1,11 +1,11 @@
 ---
-Completed: No
+Completed:: 0
 Priority: Medium
-Status: ToDo
-Project: "[[Project Template]]"
+Status: Idea
+Project: "[[Project Name]]"
 due-date: 2021-10-26
 created: 2021-10-25T02:34:02-05:00
-updated: 2021-10-25T02:34:02-05:00
+updated: 2021-10-25T03:07:00-05:00
 ---
 
 # Summary

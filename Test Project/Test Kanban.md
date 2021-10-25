@@ -2,18 +2,18 @@
 
 kanban-plugin: basic
 
-created: 2021-10-25T02:33:12-05:00
-updated: 2021-10-25T02:33:46-05:00
+created: 2021-10-25T02:45:40-05:00
+updated: 2021-10-25T03:19:12-05:00
 ---
 
 ## Idea
 
 - [ ] [[Test Task 1]]
+- [ ] [[Test Project/Kanban Notes/Test]]
 
 
 ## ToDo
 
-- [ ] [[Test]]
 
 
 ## Doing

@@ -1,15 +1,14 @@
 ---
-Status: Active
-tags: #projects 
-created: 2021-10-24T23:26:05-05:00
-updated: 2021-10-25T02:36:43-05:00
+created: 2021-10-25T03:06:28-05:00
+updated: 2021-10-25T03:06:28-05:00
 ---
+# Project Status
 
 ## Remaining Tasks
 
 ```dataview
 table Completed, due-date as "Due Date"
-from #tasks
+from #test-tasks
 where file.name != "Task Template"
 where Project = this.file.link and completed != 1
 sort due-date desc
@@ -19,8 +18,12 @@ sort due-date desc
 
 ```dataview
 table Completed, due-date as "Due Date"
-from #tasks 
+from #test-tasks 
 where file.name != "Task Template"
 where Project = this.file.link and completed = 1
 sort due-date desc
 ```
+
+---
+
+# Project Summary
