@@ -1,5 +1,5 @@
 {
-  "dateFormat": "yyyy-MM-dd'T' hh:mm:ss",
+  "dateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
   "readDateFormat": "yyyy-MM-dd'T'HH:mm:ssxxx",
   "useDifferentReadFormat": false,
   "enableCreateTime": true,

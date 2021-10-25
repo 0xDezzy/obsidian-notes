@@ -91,7 +91,7 @@
     },
     "Test Project/Kanban Notes/Test Task 1.md": {
       "size": 0,
-      "tags": 1,
+      "tags": 2,
       "links": 0
     }
   },
@@ -99,13 +99,13 @@
     "/": {
       "Refactor": 89,
       "Create": 64,
-      "Link": 32,
+      "Link": 33,
       "Expand": 0
     }
   },
   "dailyCommits": {
     "/": {
-      "0": 19,
+      "0": 20,
       "1": 0,
       "2": 0,
       "3": 0,
@@ -133,7 +133,7 @@
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 19,
+      "Mon": 20,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -241,6 +241,7 @@
         "<a class=\"internal-link\" href=\"Dashboard/Tasks/Test 2.md\"> Test 2 </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>",
+        "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test Task 1.md\"> Test Task 1 </a>",
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test Task 1.md\"> Test Task 1 </a>"
       ],
       "Refactored": [],
