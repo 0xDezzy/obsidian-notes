@@ -4,136 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "cd77631d04e9fa37",
+        "id": "59835a4b0228d317",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Dashboard/2. Dashboard.md",
-            "mode": "preview"
+            "file": "Templates/Dashboard/Task Template.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/2. Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Task Template.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Task Template.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Project Template.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Task Template.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Dashboard/Dashboard.md\",\"mode\":\"source\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home/Home.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
-              "leaf": "cd77631d04e9fa37",
+              "leaf": "59835a4b0228d317",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/New Task.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Dashboard/Untitled.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Task Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Templates/Task Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/Task.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1. Dashboard/_templates/Task Template.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/1. Dashboard.md\",\"mode\":\"source\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Projects.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1Dashboard/Dashboard.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "cd77631d04e9fa37",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Home/0. Home.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
             }
           ]
@@ -278,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Dashboard/2. Dashboard.md"
+                "file": "Templates/Dashboard/Task Template.md"
               }
             },
             "pane-relief:history-v1": {
@@ -314,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Dashboard/2. Dashboard.md",
+                "file": "Templates/Dashboard/Task Template.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Dashboard/2. Dashboard.md",
+                "file": "Templates/Dashboard/Task Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -370,17 +292,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "cd77631d04e9fa37",
+  "active": "59835a4b0228d317",
   "lastOpenFiles": [
+    "Templates/Dashboard/Task Template.md",
+    "Dashboard/Dashboard.md",
+    "Templates/Dashboard/Project Template.md",
+    "Home/Home.md",
+    "Notes.md",
+    "Programming/Programming.md",
     "1. Dashboard/2. Dashboard.md",
     "1Dashboard/Dashboard.md",
     "1Dashboard/1. Dashboard.md",
-    "Templates/Task Template.md",
-    "Templates/Dashboard/New Task.md",
-    "Templates/Dashboard/Untitled.md",
-    "1. Dashboard/Task Template.md",
-    "Templates/Task Template.md",
-    "1. Dashboard/Task.md",
-    "1. Dashboard/_templates/Task Template.md"
+    "Templates/Dashboard/New Task.md"
   ]
 }

@@ -9,5 +9,6 @@
   "Templates": "RiRiFilePaperLine",
   "Programming": "RiRiCodeBoxLine",
   "Notes": "RiRiPencilLine",
-  "Home": "RiRiHomeLine"
+  "Home": "RiRiHomeLine",
+  "Dashboard": "RiRiDashboardLine"
 }

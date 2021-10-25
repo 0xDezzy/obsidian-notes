@@ -54,5 +54,6 @@
   "obsidian-view-mode-by-frontmatter",
   "obsidian-query-language",
   "obsidian-tasks-plugin",
-  "buttons"
+  "buttons",
+  "obsidian-prominent-starred-files"
 ]

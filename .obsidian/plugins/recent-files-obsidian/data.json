@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "2. Dashboard",
-      "path": "1. Dashboard/2. Dashboard.md"
-    },
-    {
       "basename": "Task Template",
-      "path": "Templates/Task Template.md"
+      "path": "Templates/Dashboard/Task Template.md"
     },
     {
-      "basename": "0. Home",
-      "path": "Home/0. Home.md"
+      "basename": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
+    },
+    {
+      "basename": "Project Template",
+      "path": "Templates/Dashboard/Project Template.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home/Home.md"
+    },
+    {
+      "basename": "Programming",
+      "path": "Programming/Programming.md"
     },
     {
       "basename": "changelog",
@@ -27,14 +35,6 @@
     {
       "basename": "Daily Note Template",
       "path": "Templates/Journal/Daily Note Template.md"
-    },
-    {
-      "basename": "2. Programming",
-      "path": "Programming/2. Programming.md"
-    },
-    {
-      "basename": "1. Notes",
-      "path": "Notes/1. Notes.md"
     }
   ],
   "omittedPaths": [],

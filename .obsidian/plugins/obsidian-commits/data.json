@@ -19,52 +19,57 @@
       "tags": 0,
       "links": 0
     },
-    "Templates/Task Template.md": {
-      "size": 0,
-      "tags": 0,
-      "links": 0
-    },
-    "Programming/2. Programming.md": {
-      "size": 16,
-      "tags": 0,
-      "links": 0
-    },
-    "Notes/1. Notes.md": {
-      "size": 10,
-      "tags": 0,
-      "links": 0
-    },
-    "Home/0. Home.md": {
-      "size": 112,
-      "tags": 0,
-      "links": 3
-    },
     "Home/changelog.md": {
       "size": 187,
       "tags": 0,
       "links": 10
     },
-    "1. Dashboard/Dashboard.md": {
+    "Dashboard/Dashboard-embed.md": {
       "size": 1140,
       "tags": 0,
       "links": 0
     },
-    "1. Dashboard/Projects.md": {
+    "Dashboard/Dashboard.md": {
+      "size": 462,
+      "tags": 0,
+      "links": 2
+    },
+    "Dashboard/Projects-embed.md": {
       "size": 308,
       "tags": 0,
       "links": 0
     },
-    "1. Dashboard/2. Dashboard.md": {
-      "size": 462,
+    "Home/Home.md": {
+      "size": 203,
+      "tags": 0,
+      "links": 4
+    },
+    "Programming/Programming.md": {
+      "size": 102,
+      "tags": 0,
+      "links": 0
+    },
+    "Notes/Notes.md": {
+      "size": 102,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Dashboard/Task Template.md": {
+      "size": 0,
+      "tags": 0,
+      "links": 0
+    },
+    "Templates/Dashboard/Project Template.md": {
+      "size": 0,
       "tags": 0,
       "links": 0
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 49,
-      "Create": 30,
-      "Link": 11,
+      "Refactor": 64,
+      "Create": 45,
+      "Link": 13,
       "Expand": 0
     }
   },
@@ -93,7 +98,7 @@
       "20": 0,
       "21": 11,
       "22": 45,
-      "23": 34
+      "23": 66
     }
   },
   "weeklyCommits": {
@@ -104,7 +109,7 @@
       "Thu": 0,
       "Fri": 0,
       "Sat": 0,
-      "Sun": 90
+      "Sun": 122
     }
   },
   "recentCommits": {
@@ -140,7 +145,22 @@
         "<a class=\"internal-link\" href=\"Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
         "<a class=\"internal-link\" href=\"Dashboard/Projects.md\"> Projects </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/2. Dashboard.md\"> 2. Dashboard </a>"
+        "<a class=\"internal-link\" href=\"1. Dashboard/2. Dashboard.md\"> 2. Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/1Dashboard.md\"> 1Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard-embed.md\"> Dashboard-embed </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Projects-embed.md\"> Projects-embed </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard.md\"> Dashboard </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Dashboard-embed.md\"> Dashboard-embed </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Projects-embed.md\"> Projects-embed </a>",
+        "<a class=\"internal-link\" href=\"Home/Home.md\"> Home </a>",
+        "<a class=\"internal-link\" href=\"Programming/Programming.md\"> Programming </a>",
+        "<a class=\"internal-link\" href=\"Notes.md\"> Notes </a>",
+        "<a class=\"internal-link\" href=\"Notes/Notes.md\"> Notes </a>",
+        "<a class=\"internal-link\" href=\"New Task.md\"> New Task </a>",
+        "<a class=\"internal-link\" href=\"Templates/Dashboard/Untitled.md\"> Untitled </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -164,7 +184,8 @@
         "<a class=\"internal-link\" href=\"1Dashboard/Projects.md\"> Projects </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard.md\"> Dashboard </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/Projects.md\"> Projects </a>"
+        "<a class=\"internal-link\" href=\"1. Dashboard/Projects.md\"> Projects </a>",
+        "<a class=\"internal-link\" href=\"Templates/Dashboard/Task Template.md\"> Task Template </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>"
@@ -194,7 +215,21 @@
         "<a class=\"internal-link\" href=\"1Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
         "<a class=\"internal-link\" href=\"1Dashboard/Dashboard.md\"> Dashboard </a>",
         "<a class=\"internal-link\" href=\"1Dashboard/Projects.md\"> Projects </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>"
+        "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/2. Dashboard.md\"> 2. Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard.md\"> Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Projects.md\"> Projects </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/1Dashboard.md\"> 1Dashboard </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard-embed.md\"> Dashboard-embed </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Projects-embed.md\"> Projects-embed </a>",
+        "<a class=\"internal-link\" href=\"1. Dashboard/Dashboard.md\"> Dashboard </a>",
+        "<a class=\"internal-link\" href=\"Home/0. Home.md\"> 0. Home </a>",
+        "<a class=\"internal-link\" href=\"Programming/2. Programming.md\"> 2. Programming </a>",
+        "<a class=\"internal-link\" href=\"Notes.md\"> Notes </a>",
+        "<a class=\"internal-link\" href=\"Notes/1. Notes.md\"> 1. Notes </a>",
+        "<a class=\"internal-link\" href=\"New Task.md\"> New Task </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
@@ -206,7 +241,9 @@
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
         "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
-        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>"
+        "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
+        "<a class=\"internal-link\" href=\"Dashboard/Dashboard.md\"> Dashboard </a>",
+        "<a class=\"internal-link\" href=\"Home/Home.md\"> Home </a>"
       ],
       "Removed Tags from": [],
       "Removed Links from": [

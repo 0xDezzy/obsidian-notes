@@ -15,5 +15,13 @@
       ],
       "key": "B"
     }
+  ],
+  "starred:star-current-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
+    }
   ]
 }
