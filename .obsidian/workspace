@@ -7,14 +7,21 @@
         "id": "94d6600c20711b4c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Test Project/Untitled Kanban.md"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "94d6600c20711b4c",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "94d6600c20711b4c",
               "group": null,
@@ -259,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Project/Untitled Kanban.md"
+                "file": "Untitled.md"
               }
             },
             "pane-relief:history-v1": {
@@ -295,7 +302,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Project/Untitled Kanban.md",
+                "file": "Untitled.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -316,7 +323,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Project/Untitled Kanban.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,6 +360,7 @@
   },
   "active": "94d6600c20711b4c",
   "lastOpenFiles": [
+    "Untitled.md",
     "Test Project/Untitled Kanban.md",
     "Dashboard/Dashboard-embed.md",
     "Dashboard/Dashboard.md",
@@ -361,7 +369,6 @@
     "Test Project/Kanban Notes/Untitled.md",
     "Test Project/Kanban Notes/Test Task 1.md",
     "Test Project/Test Project.md",
-    "Templates/Dashboard/Project Template.md",
-    "Test Project/Kanban Notes/Test.md"
+    "Templates/Dashboard/Project Template.md"
   ]
 }
