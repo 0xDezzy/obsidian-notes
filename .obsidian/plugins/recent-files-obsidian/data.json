@@ -5,6 +5,10 @@
       "path": "1.1 Tasks/1.1 Tasks.md"
     },
     {
+      "basename": "New Task Template",
+      "path": "99. Templates/Tasks/New Task Template.md"
+    },
+    {
       "basename": "Weekly Note Template",
       "path": "99. Templates/Journal/Weekly Note Template.md"
     },

@@ -1,4 +1,5 @@
-- 2021-10-24 at 22h14 · [[1.1 Tasks]]
+- 2021-10-24 at 22h24 · [[1.1 Tasks]]
+- 2021-10-24 at 22h24 · [[New Task Template]]
 - 2021-10-24 at 22h01 · [[Monthly Note Template]]
 - 2021-10-24 at 21h58 · [[Weekly Note Template]]
 - 2021-10-24 at 21h57 · [[Daily Note Template]]
