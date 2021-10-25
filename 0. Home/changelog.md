@@ -1,5 +1,10 @@
-- 2021-10-24 at 22h54 · [[Dashboard]]
-- 2021-10-24 at 22h52 · [[1. Dashboard]]
+---
+created: 2021-10-24T23:04:18-05:00
+updated: 2021-10-24T23:04:18-05:00
+---
+- 2021-10-24 at 23h03 · [[Task Template]]
+- 2021-10-24 at 22h59 · [[1. Dashboard]]
+- 2021-10-24 at 22h55 · [[Dashboard]]
 - 2021-10-24 at 22h52 · [[Projects]]
 - 2021-10-24 at 22h50 · [[0. Home]]
 - 2021-10-24 at 22h34 · [[New Task]]
@@ -7,4 +12,3 @@
 - 2021-10-24 at 21h58 · [[Weekly Note Template]]
 - 2021-10-24 at 21h57 · [[Daily Note Template]]
 - 2021-10-24 at 21h30 · [[1. Notes]]
-- 2021-10-24 at 21h30 · [[2. Programming]]
