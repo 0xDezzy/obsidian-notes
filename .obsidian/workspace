@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Go/Docs/Create a Module.md",
+            "file": "Programming/Go/Docs/Installing Go.md",
             "mode": "preview"
           }
         },
@@ -19,8 +19,20 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Create a Module.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Installing Go.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Create a Module.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0.5333333333333333}"
             },
             {
               "leaf": "e7073ea138216e77",
@@ -188,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Go/Docs/Create a Module.md"
+                "file": "Programming/Go/Docs/Installing Go.md"
               }
             },
             "pane-relief:history-v1": {
@@ -224,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Go/Docs/Create a Module.md",
+                "file": "Programming/Go/Docs/Installing Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +257,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Go/Docs/Create a Module.md",
+                "file": "Programming/Go/Docs/Installing Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,9 +295,9 @@
   },
   "active": "e7073ea138216e77",
   "lastOpenFiles": [
-    "Programming/Go/Docs/Create a Module.md",
-    "Programming/Go/Docs/Getting Started.md",
     "Programming/Go/Docs/Installing Go.md",
+    "Programming/Go/Docs/Getting Started.md",
+    "Programming/Go/Docs/Create a Module.md",
     "0. Home/0. Home.md",
     "Programming/Go/Docs/Docs.md",
     "Programming/Go/Go.md",
