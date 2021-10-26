@@ -1,12 +1,4 @@
 {
   "baseFontSize": 16,
-  "translucency": false,
-  "cssTheme": "Minimal",
-  "enabledCssSnippets": [
-    "clean-embeds-all",
-    "auto-fade-note-controls",
-    "auto-fade-status-bar",
-    "tag-pills",
-    "stylish-blockquotes"
-  ]
+  "cssTheme": "Minimal"
 }

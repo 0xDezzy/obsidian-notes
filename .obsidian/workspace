@@ -7,12 +7,39 @@
         "id": "e7073ea138216e77",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/Go/Docs/Create a Module.md",
+            "mode": "preview"
+          }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Create a Module.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Installing Go.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "e7073ea138216e77",
               "group": null,
@@ -160,7 +187,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Programming/Go/Docs/Create a Module.md"
+              }
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -195,6 +224,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/Go/Docs/Create a Module.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,6 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Programming/Go/Docs/Create a Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,15 +283,15 @@
   },
   "active": "e7073ea138216e77",
   "lastOpenFiles": [
-    "Programming/Go/Docs/Installing Go.md",
     "Programming/Go/Docs/Create a Module.md",
     "Programming/Go/Docs/Getting Started.md",
+    "Programming/Go/Docs/Installing Go.md",
+    "0. Home/0. Home.md",
     "Programming/Go/Docs/Docs.md",
     "Programming/Go/Go.md",
     "Programming/Go/test.md",
     "Programming/Programming.md",
     "Home/Home.md",
-    "Journal/Journal.md",
-    "Journal.md"
+    "Journal/Journal.md"
   ]
 }

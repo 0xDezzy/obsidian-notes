@@ -1,6 +1,4 @@
 {
-  "promptDelete": false,
   "defaultViewMode": "preview",
-  "readableLineLength": false,
-  "alwaysUpdateLinks": true
+  "promptDelete": false
 }

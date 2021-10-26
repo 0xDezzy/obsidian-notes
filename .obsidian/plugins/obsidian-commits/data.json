@@ -117,8 +117,8 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 110,
-      "Create": 81,
+      "Refactor": 111,
+      "Create": 82,
       "Link": 40,
       "Expand": 4
     }
@@ -148,12 +148,12 @@
       "20": 0,
       "21": 11,
       "22": 45,
-      "23": 110
+      "23": 112
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 69,
+      "Mon": 71,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -171,6 +171,7 @@
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Create a Module.md\"> Create a Module </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Docs.md\"> Docs </a>",
@@ -220,8 +221,7 @@
         "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/_templates/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"1. Dashboard/_templates/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -276,6 +276,7 @@
       ],
       "Refactored": [],
       "Deleted": [
+        "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/test.md\"> test </a>",
         "<a class=\"internal-link\" href=\"Journal/Notes.md\"> Notes </a>",
         "<a class=\"internal-link\" href=\"Journal.md\"> Journal </a>",
@@ -325,8 +326,7 @@
         "<a class=\"internal-link\" href=\"Notes.md\"> Notes </a>",
         "<a class=\"internal-link\" href=\"Notes/1. Notes.md\"> 1. Notes </a>",
         "<a class=\"internal-link\" href=\"New Task.md\"> New Task </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>",
-        "<a class=\"internal-link\" href=\"Dashboard/Projects/New Project.md\"> New Project </a>"
+        "<a class=\"internal-link\" href=\"Dashboard/Tasks/New Task.md\"> New Task </a>"
       ],
       "Linked": [
         "<a class=\"internal-link\" href=\"0. Home/changelog.md\"> changelog </a>",
