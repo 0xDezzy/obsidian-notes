@@ -1,6 +1,6 @@
 ---
 created: 2021-10-25T03:42:55-05:00
-updated: 2021-10-25T03:56:16-05:00
+updated: 2021-10-25T23:44:59-05:00
 ---
 
 # Tutorial: Get started with Go
@@ -156,4 +156,4 @@ When you need your code to do something that might have been implemented by some
 
 ## Write more code
 
-With this quick introduction, you got Go installed and learned some of the basics. To write some more code with another tutorial, take a look at [[]]
+With this quick introduction, you got Go installed and learned some of the basics. To write some more code with another tutorial, take a look at [[Create a Module]].

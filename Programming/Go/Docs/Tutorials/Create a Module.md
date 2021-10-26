@@ -1,8 +1,8 @@
 ---
 created: 2021-10-25T03:55:28-05:00
-updated: 2021-10-25T03:55:28-05:00
+updated: 2021-10-25T23:47:02-05:00
 ---
-# Tutorial: Create a Go module# Tutorial: Create a Go module
+# Tutorial: Create a Go module
 
 ## Table of Contents
 ```toc

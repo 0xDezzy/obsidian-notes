@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Developing a RESTful API with Go and Gin",
+      "path": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md"
+    },
+    {
+      "basename": "Create a Module",
+      "path": "Programming/Go/Docs/Tutorials/Create a Module.md"
+    },
+    {
       "basename": "Getting Started",
       "path": "Programming/Go/Docs/Getting Started.md"
     },
     {
       "basename": "Docs",
       "path": "Programming/Go/Docs/Docs.md"
-    },
-    {
-      "basename": "Create a Module",
-      "path": "Programming/Go/Docs/Tutorials/Create a Module.md"
     },
     {
       "basename": "Installing Go",

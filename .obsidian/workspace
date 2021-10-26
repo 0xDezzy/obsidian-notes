@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Go/Docs/Getting Started.md",
-            "mode": "source"
+            "file": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
+            "mode": "preview"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,68 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"source\"}}",
-              "eState": "{\"scroll\":109.875}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":3},\"to\":{\"line\":7,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":3,\"ch\":0},\"to\":{\"line\":3,\"ch\":0}}}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":12},\"to\":{\"line\":0,\"ch\":12}}}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":0}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":113.3984375}"
             },
             {
               "leaf": "e7073ea138216e77",
@@ -75,30 +135,6 @@
               "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":0.5333333333333333}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Installing Go.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0. Home/0. Home.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"empty\",\"state\":{}}",
-              "eState": "{}"
             }
           ]
         }
@@ -242,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Go/Docs/Getting Started.md"
+                "file": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md"
               }
             },
             "pane-relief:history-v1": {
@@ -278,7 +314,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Go/Docs/Getting Started.md",
+                "file": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +335,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programming/Go/Docs/Getting Started.md",
+                "file": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +345,8 @@
               "stack": []
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "43baec38f172317f",
@@ -337,15 +374,15 @@
   },
   "active": "e7073ea138216e77",
   "lastOpenFiles": [
+    "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
+    "Programming/Go/Docs/Tutorials/Create a Module.md",
     "Programming/Go/Docs/Getting Started.md",
     "Programming/Go/Docs/Docs.md",
-    "Programming/Go/Docs/Tutorials/Create a Module.md",
     "Programming/Go/Docs/Installing Go.md",
     "0. Home/0. Home.md",
     "Programming/Go/Go.md",
     "Programming/Go/test.md",
     "Programming/Programming.md",
-    "Home/Home.md",
-    "Journal/Journal.md"
+    "Home/Home.md"
   ]
 }
