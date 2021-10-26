@@ -1,6 +1,6 @@
 ---
 created: 2021-10-25T23:47:33-05:00
-updated: 2021-10-25T23:52:00-05:00
+updated: 2021-10-26T00:36:29-05:00
 ---
 # Tutorial: Developing a RESTful API with Go and Gin
 ## Table of Contents

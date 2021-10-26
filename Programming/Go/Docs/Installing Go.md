@@ -83,4 +83,4 @@ Try one of the [other downloads](https://golang.org/dl/).
 ```
 
 ### Go Code
-You're set up! Visit the [Getting Started tutorial](https://golang.org/doc/tutorial/getting-started.html) to write some simple Go code. It takes about 10 minutes to complete.
+You're set up! Visit the [[Getting Started]] to write some simple Go code. It takes about 10 minutes to complete.
