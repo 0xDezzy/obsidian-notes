@@ -10,12 +10,30 @@
           "type": "markdown",
           "state": {
             "file": "Programming/Go/Docs/Installing Go.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Installing Go.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":4.552631578947368}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Create a Module.md\",\"mode\":\"preview\"}}",
+              "eState": "{\"scroll\":13.375}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
             {
               "leaf": "e7073ea138216e77",
               "group": null,
@@ -296,8 +314,8 @@
   "active": "e7073ea138216e77",
   "lastOpenFiles": [
     "Programming/Go/Docs/Installing Go.md",
-    "Programming/Go/Docs/Getting Started.md",
     "Programming/Go/Docs/Create a Module.md",
+    "Programming/Go/Docs/Getting Started.md",
     "0. Home/0. Home.md",
     "Programming/Go/Docs/Docs.md",
     "Programming/Go/Go.md",

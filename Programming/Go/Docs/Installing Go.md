@@ -38,19 +38,19 @@ Try one of the [other downloads](https://golang.org/dl/).
     
     For example, run the following as root or through `sudo`:
     
-    rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.2.linux-amd64.tar.gz
+    `rm -rf /usr/local/go && tar -C /usr/local -xzf go1.17.2.linux-amd64.tar.gz`
     
 2.  Add /usr/local/go/bin to the `PATH` environment variable.
     
     You can do this by adding the following line to your $HOME/.profile or /etc/profile (for a system-wide installation):
     
-    export PATH=$PATH:/usr/local/go/bin
+    `export PATH=$PATH:/usr/local/go/bin`
     
     **Note:** Changes made to a profile file may not apply until the next time you log into your computer. To apply the changes immediately, just run the shell commands directly or execute them from the profile using a command such as `source $HOME/.profile`.
     
 3.  Verify that you've installed Go by opening a command prompt and typing the following command:
     
-    $ go version
+    ``$ go version`
     
 4.  Confirm that the command prints the installed version of Go.
 ```
