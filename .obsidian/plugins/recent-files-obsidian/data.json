@@ -1,56 +1,76 @@
 {
   "recentFiles": [
     {
-      "basename": "project-dashboard-embed",
-      "path": "Test Project/project-dashboard-embed.md"
+      "basename": "Installing Go",
+      "path": "Programming/Go/Docs/Installing Go.md"
     },
     {
-      "basename": "Project Template",
-      "path": "Templates/Dashboard/Project Template.md"
+      "basename": "Create a Module",
+      "path": "Programming/Go/Docs/Create a Module.md"
     },
     {
-      "basename": "Untitled Kanban",
-      "path": "Test Project/Untitled Kanban.md"
+      "basename": "Getting Started",
+      "path": "Programming/Go/Docs/Getting Started.md"
     },
     {
-      "basename": "Test",
-      "path": "Test Project/Kanban Notes/Test.md"
+      "basename": "Docs",
+      "path": "Programming/Go/Docs/Docs.md"
     },
     {
-      "basename": "kanban-template",
-      "path": "Templates/Kanban/kanban-template.md"
-    },
-    {
-      "basename": "Test Task 1",
-      "path": "Test Project/Kanban Notes/Test Task 1.md"
-    },
-    {
-      "basename": "Dashboard",
-      "path": "Dashboard/Dashboard.md"
-    },
-    {
-      "basename": "Test Project",
-      "path": "Test Project/Test Project.md"
-    },
-    {
-      "basename": "Dashboard-embed",
-      "path": "Dashboard/Dashboard-embed.md"
-    },
-    {
-      "basename": "Task Template",
-      "path": "Templates/Dashboard/Task Template.md"
+      "basename": "Go",
+      "path": "Programming/Go/Go.md"
     },
     {
       "basename": "Programming",
       "path": "Programming/Programming.md"
     },
     {
-      "basename": "Notes",
-      "path": "Notes/Notes.md"
-    },
-    {
       "basename": "Home",
       "path": "Home/Home.md"
+    },
+    {
+      "basename": "Journal",
+      "path": "Journal/Journal.md"
+    },
+    {
+      "basename": "Dashboard",
+      "path": "Dashboard/Dashboard.md"
+    },
+    {
+      "basename": "Dashboard-embed",
+      "path": "Dashboard/Dashboard-embed.md"
+    },
+    {
+      "basename": "Project Name",
+      "path": "Test Project/Project Name.md"
+    },
+    {
+      "basename": "Test",
+      "path": "Test Project/Kanban Notes/Test.md"
+    },
+    {
+      "basename": "Test Task 1",
+      "path": "Test Project/Kanban Notes/Test Task 1.md"
+    },
+    {
+      "basename": "Test Kanban",
+      "path": "Test Project/Test Kanban.md"
+    },
+    {
+      "basename": "Test Project",
+      "path": "Test Project/Test Project.md"
+    },
+    {
+      "basename": "Project Template",
+      "path": "Templates/Dashboard/Project Template.md"
+    },
+    {
+      "basename": "kanban-template",
+      "path": "Templates/Kanban/kanban-template.md"
+    },
+    {
+      "basename": "Task Template",
+      "path": "Templates/Dashboard/Task Template.md"
     },
     {
       "basename": "changelog",

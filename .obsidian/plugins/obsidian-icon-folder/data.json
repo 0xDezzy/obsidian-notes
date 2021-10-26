@@ -1,15 +1,16 @@
 {
   "settings": {
     "enableRemixiconsLine": true,
-    "enableRemixiconsFill": false,
-    "enableFontawesomeFill": false,
+    "enableRemixiconsFill": true,
+    "enableFontawesomeFill": true,
     "enableFontawesomeLine": true,
     "enableFontawesomeBrands": true
   },
   "Templates": "RiRiFilePaperLine",
   "Programming": "RiRiCodeBoxLine",
-  "Notes": "RiRiPencilLine",
   "Home": "RiRiHomeLine",
   "Dashboard": "RiRiDashboardLine",
-  "Test Project/Untitled Kanban.md": "RiRiDashboardLine"
+  "Test Project/Test Kanban.md": "RiRiDashboardLine",
+  "Journal": "RiRiPencilLine",
+  "Programming/Go/Docs": "RiRiBookLine"
 }

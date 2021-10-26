@@ -1,6 +1,6 @@
 ---
 created: 2021-10-25T03:26:52-05:00
-updated: 2021-10-25T03:36:52-05:00
+updated: 2021-10-25T03:56:32-05:00
 ---
 # Download and Install
 ## Table of Contents

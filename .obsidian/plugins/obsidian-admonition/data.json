@@ -1,10 +1,41 @@
 {
-  "userAdmonitions": {},
+  "userAdmonitions": {
+    "windows": {
+      "type": "windows",
+      "color": "41, 184, 255",
+      "icon": {
+        "name": "windows",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Windows"
+    },
+    "linux": {
+      "type": "linux",
+      "color": "120, 120, 120",
+      "icon": {
+        "name": "linux",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Linux"
+    },
+    "mac": {
+      "type": "mac",
+      "color": "247, 247, 247",
+      "icon": {
+        "name": "apple",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Mac"
+    }
+  },
   "syntaxHighlight": true,
   "copyButton": true,
   "version": "6.4.1",
   "autoCollapse": true,
-  "defaultCollapseType": "open",
+  "defaultCollapseType": "closed",
   "syncLinks": true,
   "enableMarkdownProcessor": true
 }

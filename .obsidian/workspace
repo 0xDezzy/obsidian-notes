@@ -4,26 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37df39b400aa2471",
+        "id": "e7073ea138216e77",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Test Project/project-dashboard-embed.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
           "stack": [
             {
-              "leaf": "37df39b400aa2471",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Test Project/project-dashboard-embed.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "37df39b400aa2471",
+              "leaf": "e7073ea138216e77",
               "group": null,
               "state": "{\"type\":\"empty\",\"state\":{}}",
               "eState": "{}"
@@ -169,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test Project/project-dashboard-embed.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -206,7 +195,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Project/project-dashboard-embed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +215,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Project/project-dashboard-embed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,19 +247,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "37df39b400aa2471",
+  "active": "e7073ea138216e77",
   "lastOpenFiles": [
-    "Test Project/project-dashboard-embed.md",
-    "Templates/Dashboard/Project Template.md",
-    "Test Project/Untitled Kanban.md",
-    "Test Project/Kanban Notes/Test.md",
-    "Templates/Kanban/kanban-template.md",
-    "Test Project/Kanban Notes/Test Task 1.md",
-    "Dashboard/Dashboard.md",
-    "Test Project/Test Project.md",
-    "Dashboard/Tasks/Test 2.md",
-    "Dashboard/Tasks/Test 1.md"
+    "Programming/Go/Docs/Installing Go.md",
+    "Programming/Go/Docs/Create a Module.md",
+    "Programming/Go/Docs/Getting Started.md",
+    "Programming/Go/Docs/Docs.md",
+    "Programming/Go/Go.md",
+    "Programming/Go/test.md",
+    "Programming/Programming.md",
+    "Home/Home.md",
+    "Journal/Journal.md",
+    "Journal.md"
   ]
 }

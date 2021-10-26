@@ -24,5 +24,12 @@
       "key": "S"
     }
   ],
-  "obsidian-icons-plugin:open-icons-plugin-modal": []
+  "obsidian-icons-plugin:open-icons-plugin-modal": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
+    }
+  ]
 }
