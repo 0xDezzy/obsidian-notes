@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,8 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":31.791666666666668}"
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":12.708333333333334}"
             },
             {
               "leaf": "e7073ea138216e77",
