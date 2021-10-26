@@ -1,6 +1,6 @@
 ---
 created: 2021-10-25T23:47:33-05:00
-updated: 2021-10-25T23:49:27-05:00
+updated: 2021-10-25T23:52:00-05:00
 ---
 # Tutorial: Developing a RESTful API with Go and Gin
 ## Table of Contents
@@ -67,19 +67,19 @@ To begin, create a project for the code you’ll write.
     
     On Linux or Mac:
     
-    ```
+    ```bash
     $ cd
     ```
     
     On Windows:
     
-    ```
+    ```powershell
     C:\> cd %HOMEPATH%
     ```
     
 2.  Using the command prompt, create a directory for your code called web-service-gin.
     
-    ```
+    ```bash
     $ mkdir web-service-gin
     $ cd web-service-gin
     ```
@@ -88,7 +88,7 @@ To begin, create a project for the code you’ll write.
     
     Run the `go mod init` command, giving it the path of the module your code will be in.
     
-    ```
+    ```bash
     $ go mod init example/web-service-gin
     go: creating new go.mod: module example/web-service-gin
     ```
@@ -110,7 +110,7 @@ Note that storing data in memory means that the set of albums will be lost each 
     
 2.  Into main.go, at the top of the file, paste the following package declaration.
     
-    ```
+    ```go
     package main
     ```
     
@@ -120,7 +120,7 @@ Note that storing data in memory means that the set of albums will be lost each 
     
     Struct tags such as `json:"artist"` specify what a field’s name should be when the struct’s contents are serialized into JSON. Without them, the JSON would use the struct’s capitalized field names – a style not as common in JSON.
     
-    ```
+    ```go
     // album represents data about a record album.
     type album struct {
         ID     string  `json:"id"`
@@ -132,7 +132,7 @@ Note that storing data in memory means that the set of albums will be lost each 
     
 4.  Beneath the struct declaration you just added, paste the following slice of `album` structs containing data you’ll use to start.
     
-    ```
+    ```go
     // albums slice to seed record album data.
     var albums = []album{
         {ID: "1", Title: "Blue Train", Artist: "John Coltrane", Price: 56.99},
@@ -161,7 +161,7 @@ Note that this is the reverse of how they’ll be executed at runtime, but you�
     
     This `getAlbums` function creates JSON from the slice of `album` structs, writing the JSON into the response.
     
-    ```
+    ```go
     // getAlbums responds with the list of all albums as JSON.
     func getAlbums(c *gin.Context) {
         c.IndentedJSON(http.StatusOK, albums)
@@ -184,7 +184,7 @@ Note that this is the reverse of how they’ll be executed at runtime, but you�
     
     This sets up an association in which `getAlbums` handles requests to the `/albums` endpoint path.
     
-    ```
+    ```go
     func main() {
         router := gin.Default()
         router.GET("/albums", getAlbums)
@@ -207,7 +207,7 @@ Note that this is the reverse of how they’ll be executed at runtime, but you�
     
     The first lines of code should look like this:
     
-    ```
+    ```go
     package main
     
     import (
@@ -226,7 +226,7 @@ Note that this is the reverse of how they’ll be executed at runtime, but you�
     
     At the command line, use [`go get`](https://golang.org/cmd/go/#hdr-Add_dependencies_to_current_module_and_install_them) to add the github.com/gin-gonic/gin module as a dependency for your module. Use a dot argument to mean “get dependencies for code in the current directory.”
     
-    ```
+    ```bash
     $ go get .
     go get: added github.com/gin-gonic/gin v1.7.2
     ```
@@ -235,7 +235,7 @@ Note that this is the reverse of how they’ll be executed at runtime, but you�
     
 2.  From the command line in the directory containing main.go, run the code. Use a dot argument to mean “run code in the current directory.”
     
-    ```
+    ```bsah
     $ go run .
     ```
     
@@ -243,13 +243,13 @@ Note that this is the reverse of how they’ll be executed at runtime, but you�
     
 3.  From a new command line window, use `curl` to make a request to your running web service.
     
-    ```
+    ```bash
     $ curl http://localhost:8080/albums
     ```
     
     The command should display the data you seeded the service with.
     
-    ```
+    ```json
     [
             {
                     "id": "1",
@@ -290,7 +290,7 @@ To do this, you’ll write the following:
     
     Somewhere after the `import` statements, paste the following code. (The end of the file is a good place for this code, but Go doesn’t enforce the order in which you declare functions.)
     
-    ```
+    ```go
     // postAlbums adds an album from JSON received in the request body.
     func postAlbums(c *gin.Context) {
         var newAlbum album
@@ -314,7 +314,7 @@ To do this, you’ll write the following:
     -   Add a `201` status code to the response, along with JSON representing the album you added.
 2.  Change your `main` function so that it includes the `router.POST` function, as in the following.
     
-    ```
+    ```go
     func main() {
         router := gin.Default()
         router.GET("/albums", getAlbums)
@@ -337,13 +337,13 @@ To do this, you’ll write the following:
     
 2.  From the command line in the directory containing main.go, run the code.
     
-    ```
+    ```bash
     $ go run .
     ```
     
 3.  From a different command line window, use `curl` to make a request to your running web service.
     
-    ```
+    ```bash
     $ curl http://localhost:8080/albums \
         --include \
         --header "Content-Type: application/json" \
@@ -353,7 +353,7 @@ To do this, you’ll write the following:
     
     The command should display headers and JSON for the added album.
     
-    ```http
+    ```
     HTTP/1.1 201 Created
     Content-Type: application/json; charset=utf-8
     Date: Wed, 02 Jun 2021 00:34:12 GMT
