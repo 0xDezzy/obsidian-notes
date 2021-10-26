@@ -30,8 +30,12 @@ The tutorial includes the following sections:
 **Note:** For other tutorials, see [Tutorials](https://golang.org/doc/tutorial/index.html).
 
 To try this as an interactive tutorial you complete in Google Cloud Shell, click the button below.
-
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.png)](https://ide.cloud.google.com/?cloudshell_workspace=~&walkthrough_tutorial_url=https://raw.githubusercontent.com/golang/tour/master/tutorial/web-service-gin.md)
+```button
+name Open in Cloud Shell
+type link
+action https://ide.cloud.google.com/?cloudshell_workspace=~&walkthrough_tutorial_url=https://raw.githubusercontent.com/golang/tour/master/tutorial/web-service-gin.md
+class go-button
+```
 
 ## Prerequisites
 
