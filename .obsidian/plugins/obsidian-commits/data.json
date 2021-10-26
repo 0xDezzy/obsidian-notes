@@ -104,23 +104,28 @@
       "tags": 0,
       "links": 2
     },
-    "Programming/Go/Docs/Getting Started.md": {
-      "size": 6503,
-      "tags": 0,
-      "links": 1
-    },
     "Programming/Go/Docs/Tutorials/Create a Module.md": {
       "size": 6687,
       "tags": 0,
       "links": 0
+    },
+    "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md": {
+      "size": 21300,
+      "tags": 0,
+      "links": 1
+    },
+    "Programming/Go/Docs/Tutorials/Getting Started.md": {
+      "size": 6503,
+      "tags": 0,
+      "links": 2
     }
   },
   "commitTypes": {
     "/": {
-      "Refactor": 112,
-      "Create": 82,
-      "Link": 40,
-      "Expand": 4
+      "Refactor": 113,
+      "Create": 83,
+      "Link": 42,
+      "Expand": 5
     }
   },
   "dailyCommits": {
@@ -148,12 +153,12 @@
       "20": 0,
       "21": 11,
       "22": 45,
-      "23": 113
+      "23": 118
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 72,
+      "Mon": 77,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -168,9 +173,11 @@
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Docs.md\"> Docs </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Installing Go.md\"> Installing Go </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Getting Started.md\"> Getting Started </a>",
-        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Create a Module.md\"> Create a Module </a>"
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Create a Module.md\"> Create a Module </a>",
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\"> Developing a RESTful API with Go and Gin </a>"
       ],
       "Created": [
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"0. Home/0. Home.md\"> 0. Home </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Untitled.md\"> Untitled </a>",
@@ -220,8 +227,7 @@
         "<a class=\"internal-link\" href=\"0. Home/Untitled.md\"> Untitled </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/1. Dashboard.md\"> 1. Dashboard </a>",
         "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>",
-        "<a class=\"internal-link\" href=\"1. Dashboard/_templates/Untitled.md\"> Untitled </a>"
+        "<a class=\"internal-link\" href=\"1. Dashboard/Untitled.md\"> Untitled </a>"
       ],
       "Renamed": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -257,7 +263,8 @@
         "<a class=\"internal-link\" href=\"Test Project/task-dashboard-embed.md\"> task-dashboard-embed </a>",
         "<a class=\"internal-link\" href=\"Test Project/Project Name.md\"> Project Name </a>",
         "<a class=\"internal-link\" href=\"Journal/Notes.md\"> Notes </a>",
-        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Create a Module.md\"> Create a Module </a>"
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Create a Module.md\"> Create a Module </a>",
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Getting Started.md\"> Getting Started </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",
@@ -355,7 +362,9 @@
         "<a class=\"internal-link\" href=\"Test Project/Test Project.md\"> Test Project </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Docs.md\"> Docs </a>",
         "<a class=\"internal-link\" href=\"Programming/Go/Docs/Getting Started.md\"> Getting Started </a>",
-        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Docs.md\"> Docs </a>"
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Docs.md\"> Docs </a>",
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Getting Started.md\"> Getting Started </a>",
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\"> Developing a RESTful API with Go and Gin </a>"
       ],
       "Removed Tags from": [
         "<a class=\"internal-link\" href=\"Test Project/Kanban Notes/Test.md\"> Test </a>",

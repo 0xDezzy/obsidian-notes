@@ -1,4 +1,4 @@
-- 2021-10-25 at 23h47 · [[Developing a RESTful API with Go and Gin]]
+- 2021-10-25 at 23h50 · [[Developing a RESTful API with Go and Gin]]
 - 2021-10-25 at 23h47 · [[Create a Module]]
 - 2021-10-25 at 23h44 · [[Getting Started]]
 - 2021-10-25 at 23h42 · [[Installing Go]]

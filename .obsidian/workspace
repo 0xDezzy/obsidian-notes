@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
-            "mode": "preview"
+            "mode": "source"
           }
         },
         "pane-relief:history-v1": {
@@ -19,8 +19,26 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"source\"}}",
+              "eState": "{\"scroll\":542.1176470588235}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Getting Started.md\",\"mode\":\"preview\"}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "e7073ea138216e77",
+              "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md\",\"mode\":\"source\"}}",
+              "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":147},\"to\":{\"line\":14,\"ch\":147}},\"scroll\":0}"
             },
             {
               "leaf": "e7073ea138216e77",
@@ -37,7 +55,7 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Getting Started.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
             },
             {
@@ -79,7 +97,7 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Getting Started.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":113.3984375}"
             },
             {
@@ -97,7 +115,7 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Getting Started.md\",\"mode\":\"preview\"}}",
               "eState": "{\"scroll\":113.3984375}"
             },
             {
@@ -115,26 +133,8 @@
             {
               "leaf": "e7073ea138216e77",
               "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Getting Started.md\",\"mode\":\"preview\"}}",
               "eState": "{}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Installing Go.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Getting Started.md\",\"mode\":\"preview\"}}",
-              "eState": "{}"
-            },
-            {
-              "leaf": "e7073ea138216e77",
-              "group": null,
-              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Programming/Go/Docs/Tutorials/Create a Module.md\",\"mode\":\"preview\"}}",
-              "eState": "{\"scroll\":0.5333333333333333}"
             }
           ]
         }
@@ -376,7 +376,7 @@
   "lastOpenFiles": [
     "Programming/Go/Docs/Tutorials/Developing a RESTful API with Go and Gin.md",
     "Programming/Go/Docs/Tutorials/Create a Module.md",
-    "Programming/Go/Docs/Getting Started.md",
+    "Programming/Go/Docs/Tutorials/Getting Started.md",
     "Programming/Go/Docs/Docs.md",
     "Programming/Go/Docs/Installing Go.md",
     "0. Home/0. Home.md",
