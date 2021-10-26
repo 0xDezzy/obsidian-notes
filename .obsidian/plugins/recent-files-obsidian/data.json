@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Installing Go",
-      "path": "Programming/Go/Docs/Installing Go.md"
-    },
-    {
-      "basename": "Create a Module",
-      "path": "Programming/Go/Docs/Create a Module.md"
-    },
-    {
       "basename": "Getting Started",
       "path": "Programming/Go/Docs/Getting Started.md"
     },
     {
       "basename": "Docs",
       "path": "Programming/Go/Docs/Docs.md"
+    },
+    {
+      "basename": "Create a Module",
+      "path": "Programming/Go/Docs/Tutorials/Create a Module.md"
+    },
+    {
+      "basename": "Installing Go",
+      "path": "Programming/Go/Docs/Installing Go.md"
     },
     {
       "basename": "Go",

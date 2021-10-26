@@ -109,7 +109,7 @@
       "tags": 0,
       "links": 1
     },
-    "Programming/Go/Docs/Create a Module.md": {
+    "Programming/Go/Docs/Tutorials/Create a Module.md": {
       "size": 6687,
       "tags": 0,
       "links": 0
@@ -117,7 +117,7 @@
   },
   "commitTypes": {
     "/": {
-      "Refactor": 111,
+      "Refactor": 112,
       "Create": 82,
       "Link": 40,
       "Expand": 4
@@ -148,12 +148,12 @@
       "20": 0,
       "21": 11,
       "22": 45,
-      "23": 112
+      "23": 113
     }
   },
   "weeklyCommits": {
     "/": {
-      "Mon": 71,
+      "Mon": 72,
       "Tue": 0,
       "Wed": 0,
       "Thu": 0,
@@ -256,7 +256,8 @@
         "<a class=\"internal-link\" href=\"Templates/Kanban/kanban-template.md\"> kanban-template </a>",
         "<a class=\"internal-link\" href=\"Test Project/task-dashboard-embed.md\"> task-dashboard-embed </a>",
         "<a class=\"internal-link\" href=\"Test Project/Project Name.md\"> Project Name </a>",
-        "<a class=\"internal-link\" href=\"Journal/Notes.md\"> Notes </a>"
+        "<a class=\"internal-link\" href=\"Journal/Notes.md\"> Notes </a>",
+        "<a class=\"internal-link\" href=\"Programming/Go/Docs/Tutorials/Create a Module.md\"> Create a Module </a>"
       ],
       "Tagged": [
         "<a class=\"internal-link\" href=\"99. Templates/Tasks/New Task Template.md\"> New Task Template </a>",

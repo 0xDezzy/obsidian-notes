@@ -1,6 +1,6 @@
 ---
 created: 2021-10-25T03:26:52-05:00
-updated: 2021-10-25T03:56:32-05:00
+updated: 2021-10-25T23:42:50-05:00
 ---
 # Download and Install
 ## Table of Contents
@@ -50,7 +50,7 @@ Try one of the [other downloads](https://golang.org/dl/).
     
 3.  Verify that you've installed Go by opening a command prompt and typing the following command:
     
-    ``$ go version`
+    `$ go version`
     
 4.  Confirm that the command prints the installed version of Go.
 ```
@@ -62,7 +62,7 @@ Try one of the [other downloads](https://golang.org/dl/).
     
 2.  Verify that you've installed Go by opening a command prompt and typing the following command:
     
-    $ go version
+    `$ go version`
     
 3.  Confirm that the command prints the installed version of Go.
 ```
@@ -77,7 +77,7 @@ Try one of the [other downloads](https://golang.org/dl/).
     2.  In the menu's search box, type `cmd`, then press the **Enter** key.
     3.  In the Command Prompt window that appears, type the following command:
         
-        $ go version
+        `$ go version`
         
     4.  Confirm that the command prints the installed version of Go.
 ```

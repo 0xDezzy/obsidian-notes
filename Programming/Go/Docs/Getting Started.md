@@ -156,4 +156,4 @@ When you need your code to do something that might have been implemented by some
 
 ## Write more code
 
-With this quick introduction, you got Go installed and learned some of the basics. To write some more code with another tutorial, take a look at [Create a Go module](https://golang.org/doc/tutorial/create-module.html).
+With this quick introduction, you got Go installed and learned some of the basics. To write some more code with another tutorial, take a look at [[]]

@@ -1,5 +1,5 @@
-- 2021-10-25 at 23h41 · [[Installing Go]]
-- 2021-10-25 at 03h56 · [[Getting Started]]
+- 2021-10-25 at 23h44 · [[Getting Started]]
+- 2021-10-25 at 23h42 · [[Installing Go]]
 - 2021-10-25 at 03h55 · [[Create a Module]]
 - 2021-10-25 at 03h52 · [[Docs]]
 - 2021-10-25 at 03h22 · [[Go]]
